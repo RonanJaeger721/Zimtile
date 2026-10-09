@@ -1,0 +1,312 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/shop",
+      "destination": "/products",
+      "permanent": true
+    },
+    {
+      "source": "/about-us",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/contact-zimtile",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/our-values-culture",
+      "destination": "/values",
+      "permanent": true
+    },
+    {
+      "source": "/about-us/export-service",
+      "destination": "/export-service",
+      "permanent": true
+    },
+    {
+      "source": "/branches-harare-bulawayo-gweru-mutare-masvingo-kwekwe-chinhoyi",
+      "destination": "/branches",
+      "permanent": true
+    },
+    {
+      "source": "/branches-harare-bulawayo-gweru-mutare-masvingo-kwekwe",
+      "destination": "/branches",
+      "permanent": true
+    },
+    {
+      "source": "/concrete-roof-tiles",
+      "destination": "/roof-tiles",
+      "permanent": true
+    },
+    {
+      "source": "/bricks-and-blocks",
+      "destination": "/bricks-blocks",
+      "permanent": true
+    },
+    {
+      "source": "/blocks-for-sale",
+      "destination": "/bricks-blocks",
+      "permanent": true
+    },
+    {
+      "source": "/category/projects",
+      "destination": "/projects",
+      "permanent": true
+    },
+    {
+      "source": "/blog",
+      "destination": "/news",
+      "permanent": true
+    },
+    {
+      "source": "/basket",
+      "destination": "/quote",
+      "permanent": true
+    },
+    {
+      "source": "/cart",
+      "destination": "/quote",
+      "permanent": true
+    },
+    {
+      "source": "/checkout",
+      "destination": "/quote",
+      "permanent": true
+    },
+    {
+      "source": "/wishlist",
+      "destination": "/quote",
+      "permanent": true
+    },
+    {
+      "source": "/sitemap",
+      "destination": "/sitemap.xml",
+      "permanent": true
+    },
+    {
+      "source": "/concrete-ridges",
+      "destination": "/products/category/concrete-ridges",
+      "permanent": true
+    },
+    {
+      "source": "/industrial-pavers-precast",
+      "destination": "/products/category/industrial-pavers-and-precast",
+      "permanent": true
+    },
+    {
+      "source": "/domestic-pavers-precast",
+      "destination": "/products/category/domestic-pavers-and-precast",
+      "permanent": true
+    },
+    {
+      "source": "/other-accessories",
+      "destination": "/products/category/other-accessories",
+      "permanent": true
+    },
+    {
+      "source": "/breeze-blocks",
+      "destination": "/products/category/wet-mix-others",
+      "permanent": true
+    },
+    {
+      "source": "/kerbstone-for-sale",
+      "destination": "/products/category/wet-mix-others",
+      "permanent": true
+    },
+    {
+      "source": "/slabs",
+      "destination": "/products/category/wet-mix-paving-slabs",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/bricks-and-blocks",
+      "destination": "/products/category/bricks-and-blocks",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/concrete-ridges",
+      "destination": "/products/category/concrete-ridges",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/concrete-roof-tiles",
+      "destination": "/products/category/concrete-roof-tiles",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/domestic-pavers-and-precast",
+      "destination": "/products/category/domestic-pavers-and-precast",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/dry-mix",
+      "destination": "/products/category/dry-mix",
+      "permanent": true
+    },
+    {
+      "source": "/domestic-pavers-precast/dry-mix",
+      "destination": "/products/category/dry-mix",
+      "permanent": true
+    },
+    {
+      "source": "/dry-mix",
+      "destination": "/products/category/dry-mix",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/industrial-pavers-and-precast",
+      "destination": "/products/category/industrial-pavers-and-precast",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/other-accessories",
+      "destination": "/products/category/other-accessories",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/wet-mix-cobble",
+      "destination": "/products/category/wet-mix-cobble",
+      "permanent": true
+    },
+    {
+      "source": "/domestic-pavers-precast/wet-mix-cobble",
+      "destination": "/products/category/wet-mix-cobble",
+      "permanent": true
+    },
+    {
+      "source": "/wet-mix-cobble",
+      "destination": "/products/category/wet-mix-cobble",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/wet-mix-others",
+      "destination": "/products/category/wet-mix-others",
+      "permanent": true
+    },
+    {
+      "source": "/domestic-pavers-precast/wet-mix-others",
+      "destination": "/products/category/wet-mix-others",
+      "permanent": true
+    },
+    {
+      "source": "/wet-mix-others",
+      "destination": "/products/category/wet-mix-others",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/wet-mix-paver",
+      "destination": "/products/category/wet-mix-paver",
+      "permanent": true
+    },
+    {
+      "source": "/domestic-pavers-precast/wet-mix-paver",
+      "destination": "/products/category/wet-mix-paver",
+      "permanent": true
+    },
+    {
+      "source": "/wet-mix-paver",
+      "destination": "/products/category/wet-mix-paver",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/wet-mix-paving-slabs",
+      "destination": "/products/category/wet-mix-paving-slabs",
+      "permanent": true
+    },
+    {
+      "source": "/domestic-pavers-precast/wet-mix-paving-slabs",
+      "destination": "/products/category/wet-mix-paving-slabs",
+      "permanent": true
+    },
+    {
+      "source": "/wet-mix-paving-slabs",
+      "destination": "/products/category/wet-mix-paving-slabs",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/wet-mix-paving-tiles",
+      "destination": "/products/category/wet-mix-paving-tiles",
+      "permanent": true
+    },
+    {
+      "source": "/domestic-pavers-precast/wet-mix-paving-tiles",
+      "destination": "/products/category/wet-mix-paving-tiles",
+      "permanent": true
+    },
+    {
+      "source": "/wet-mix-paving-tiles",
+      "destination": "/products/category/wet-mix-paving-tiles",
+      "permanent": true
+    },
+    {
+      "source": "/upgrade-your-roof-with-zimtile-concrete-tiles",
+      "destination": "/news/upgrade-your-roof-with-zimtile-concrete-tiles",
+      "permanent": true
+    },
+    {
+      "source": "/shopping-mall",
+      "destination": "/projects/shopping-mall",
+      "permanent": true
+    },
+    {
+      "source": "/church-project-2-harare",
+      "destination": "/projects/church-project-2-harare",
+      "permanent": true
+    },
+    {
+      "source": "/church-project-harare",
+      "destination": "/projects/church-project-harare",
+      "permanent": true
+    },
+    {
+      "source": "/supermarket-project-harare",
+      "destination": "/projects/supermarket-project-harare",
+      "permanent": true
+    },
+    {
+      "source": "/service-station-pavement-upgrade",
+      "destination": "/projects/service-station-pavement-upgrade",
+      "permanent": true
+    },
+    {
+      "source": "/product/:slug",
+      "destination": "/products/:slug",
+      "permanent": true
+    },
+    {
+      "source": "/shop/page/:page",
+      "destination": "/products",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        }
+      ]
+    }
+  ]
+}

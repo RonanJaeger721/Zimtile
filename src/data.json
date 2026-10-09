@@ -1,0 +1,4259 @@
+{
+  "products": [
+    {
+      "id": 4775,
+      "name": "TUSCAN AMBER",
+      "slug": "tuscan-amber",
+      "source": "https://www.zimtile.co.zw/product/tuscan-amber/",
+      "sku": "SM010601013",
+      "categories": [
+        {
+          "id": 44,
+          "name": "Concrete Roof Tiles",
+          "slug": "concrete-roof-tiles"
+        }
+      ],
+      "images": [
+        "/assets/zimtiles-81-of-262.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "id": 4770,
+      "name": "TUSCAN PLAIN",
+      "slug": "tuscan-plain",
+      "source": "https://www.zimtile.co.zw/product/tuscan-plain/",
+      "sku": "SM010601011",
+      "categories": [
+        {
+          "id": 44,
+          "name": "Concrete Roof Tiles",
+          "slug": "concrete-roof-tiles"
+        }
+      ],
+      "images": [
+        "/assets/zimtiles-83-of-262.webp",
+        "/assets/prod-Bold-Double-Roman-Brown.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "id": 4767,
+      "name": "TUSCAN RED 110 TERRACOTTA",
+      "slug": "tuscan-red-110-terracotta",
+      "source": "https://www.zimtile.co.zw/product/tuscan-red-110-terracotta/",
+      "sku": "SM010601009",
+      "categories": [
+        {
+          "id": 44,
+          "name": "Concrete Roof Tiles",
+          "slug": "concrete-roof-tiles"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010601009.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "id": 4765,
+      "name": "BOLD DOUBLE ROMAN CHARCOAL BLACK 630",
+      "slug": "bold-double-roman-charcoal-black-630",
+      "source": "https://www.zimtile.co.zw/product/bold-double-roman-charcoal-black-630/",
+      "sku": "SM010601023",
+      "categories": [
+        {
+          "id": 44,
+          "name": "Concrete Roof Tiles",
+          "slug": "concrete-roof-tiles"
+        }
+      ],
+      "images": [
+        "/assets/prod-Tuscan-Black.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "id": 4760,
+      "name": "BOLD DOUBLE ROMAN AMBER",
+      "slug": "bold-double-roman-amber",
+      "source": "https://www.zimtile.co.zw/product/bold-double-roman-amber/",
+      "sku": "SM010601004",
+      "categories": [
+        {
+          "id": 44,
+          "name": "Concrete Roof Tiles",
+          "slug": "concrete-roof-tiles"
+        }
+      ],
+      "images": [
+        "/assets/zimtiles-2-of-262-Copy-e1759844161711.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "id": 4754,
+      "name": "BOLD DOUBLE ROMAN BLACK 330",
+      "slug": "bold-double-roman-black-330",
+      "source": "https://www.zimtile.co.zw/product/bold-double-roman-black-330/",
+      "sku": "SM010601001",
+      "categories": [
+        {
+          "id": 44,
+          "name": "Concrete Roof Tiles",
+          "slug": "concrete-roof-tiles"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010601001.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "id": 4751,
+      "name": "HIPSTARTER TAPPERED BLACK 630",
+      "slug": "hipstarter-tappered-black-630",
+      "source": "https://www.zimtile.co.zw/product/hipstarter-tappered-black-630/",
+      "sku": "SM010602077",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010602016.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4749,
+      "name": "TAPPERED BLACK 630",
+      "slug": "tappered-black-630",
+      "source": "https://www.zimtile.co.zw/product/tappered-black-630/",
+      "sku": "SM010602076",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/zimtiles-34-of-262-Copy.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4747,
+      "name": "HIP STARTER CHARCOAL BLACK 630",
+      "slug": "hip-starter-charcoal-black-630",
+      "source": "https://www.zimtile.co.zw/product/hip-starter-charcoal-black-630/",
+      "sku": "SM010602075",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010602016.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4745,
+      "name": "HALF ROUND CHARCOAL BLACK 630",
+      "slug": "half-round-charcoal-black-630",
+      "source": "https://www.zimtile.co.zw/product/half-round-charcoal-black-630/",
+      "sku": "SM010602044",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/1W5A1156.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4743,
+      "name": "TAPPERED HIP STARTER BLACK 330",
+      "slug": "tappered-hip-starter-black-330",
+      "source": "https://www.zimtile.co.zw/product/tappered-hip-starter-black-330/",
+      "sku": "SM010602043",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/zimtiles-34-of-262-Copy.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4741,
+      "name": "HIP STARTER AMBER",
+      "slug": "hip-starter-amber",
+      "source": "https://www.zimtile.co.zw/product/hip-starter-amber/",
+      "sku": "SM010602040",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/prod-image-coming-soon.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4739,
+      "name": "TAPPERED HIP STARTER BROWN",
+      "slug": "tappered-hip-starter-brown",
+      "source": "https://www.zimtile.co.zw/product/tappered-hip-starter-brown/",
+      "sku": "SM010602038",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/1W5A1134.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4737,
+      "name": "TAPPERED HIP STARTER PLAIN",
+      "slug": "tappered-hip-starter-plain",
+      "source": "https://www.zimtile.co.zw/product/tappered-hip-starter-plain/",
+      "sku": "SM010602037",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010602016.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4735,
+      "name": "TAPPERED BROWN",
+      "slug": "tappered-brown",
+      "source": "https://www.zimtile.co.zw/product/tappered-brown/",
+      "sku": "SM010602036",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/1W5A1134-1.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4733,
+      "name": "HALF ROUND BLACK 330",
+      "slug": "half-round-black-330",
+      "source": "https://www.zimtile.co.zw/product/half-round-black-330/",
+      "sku": "SM010602033",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/1W5A1156.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4731,
+      "name": "HALF ROUND RED 110",
+      "slug": "half-round-red-110-2",
+      "source": "https://www.zimtile.co.zw/product/half-round-red-110-2/",
+      "sku": "SM010602032",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010602030.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4729,
+      "name": "HALF ROUND BROWN",
+      "slug": "half-round-brown",
+      "source": "https://www.zimtile.co.zw/product/half-round-brown/",
+      "sku": "SM010602031",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/1W5A1150.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4726,
+      "name": "HALF ROUND RED 130",
+      "slug": "half-round-red-130",
+      "source": "https://www.zimtile.co.zw/product/half-round-red-130/",
+      "sku": "SM010602030",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010602030.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4724,
+      "name": "HALF ROUND AMBER",
+      "slug": "half-round-amber",
+      "source": "https://www.zimtile.co.zw/product/half-round-amber/",
+      "sku": "SM010602029",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/zimtiles-49-of-262.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4721,
+      "name": "HALF ROUND PLAIN",
+      "slug": "half-round-plain",
+      "source": "https://www.zimtile.co.zw/product/half-round-plain/",
+      "sku": "SM010602028",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/zimtiles-57-of-262.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4715,
+      "name": "HIP STARTER BROWN",
+      "slug": "hip-starter-brown",
+      "source": "https://www.zimtile.co.zw/product/hip-starter-brown/",
+      "sku": "SM010602027",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/zimtiles-28-of-262-e1759759127126.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4713,
+      "name": "HIP STARTER BLACK 330",
+      "slug": "hip-starter-black-330",
+      "source": "https://www.zimtile.co.zw/product/hip-starter-black-330/",
+      "sku": "SM010602026",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010602016.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4711,
+      "name": "TAPPERED RED 130",
+      "slug": "tappered-red-130",
+      "source": "https://www.zimtile.co.zw/product/tappered-red-130/",
+      "sku": "SM010602024",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010602024.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4709,
+      "name": "TAPPERED BLACK 330",
+      "slug": "tappered-black-330",
+      "source": "https://www.zimtile.co.zw/product/tappered-black-330/",
+      "sku": "SM010602023",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/1W5A1143.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4707,
+      "name": "TAPPERED RED 110",
+      "slug": "tappered-red-110",
+      "source": "https://www.zimtile.co.zw/product/tappered-red-110/",
+      "sku": "SM010602022",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010602024.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4705,
+      "name": "TAPPERED PLAIN",
+      "slug": "tappered-plain",
+      "source": "https://www.zimtile.co.zw/product/tappered-plain/",
+      "sku": "SM010602021",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/1W5A1143.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4703,
+      "name": "Light Industrial 800x300x100",
+      "slug": "light-industrial-800x300x100",
+      "source": "https://www.zimtile.co.zw/product/light-industrial-800x300x100/",
+      "sku": "SM010606005",
+      "categories": [
+        {
+          "id": 46,
+          "name": "Industrial Pavers and Precast",
+          "slug": "industrial-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/industrial-pavers-and-precast/"
+        },
+        {
+          "id": 46,
+          "name": "Industrial Pavers and Precast",
+          "slug": "industrial-pavers-and-precast"
+        }
+      ],
+      "images": [
+        "/assets/kerbstone-1m.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4701,
+      "name": "Heavy Industrial 1000x300x150",
+      "slug": "heavy-industrial-1000x300x150",
+      "source": "https://www.zimtile.co.zw/product/heavy-industrial-1000x300x150/",
+      "sku": "SM010606011",
+      "categories": [
+        {
+          "id": 46,
+          "name": "Industrial Pavers and Precast",
+          "slug": "industrial-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/industrial-pavers-and-precast/"
+        },
+        {
+          "id": 46,
+          "name": "Industrial Pavers and Precast",
+          "slug": "industrial-pavers-and-precast"
+        }
+      ],
+      "images": [
+        "/assets/1W5A1326.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4693,
+      "name": "INTELOCKING PLAIN 80MM",
+      "slug": "intelocking-plain-80mm",
+      "source": "https://www.zimtile.co.zw/product/intelocking-plain-80mm/",
+      "sku": "SM010604001",
+      "categories": [
+        {
+          "id": 46,
+          "name": "Industrial Pavers and Precast",
+          "slug": "industrial-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/industrial-pavers-and-precast/"
+        },
+        {
+          "id": 46,
+          "name": "Industrial Pavers and Precast",
+          "slug": "industrial-pavers-and-precast"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-2026-03-11-at-11.50.43-AM1.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "50"
+        }
+      ]
+    },
+    {
+      "id": 4687,
+      "name": "SCALLOP PLAIN 60MM",
+      "slug": "scallop-plain-60mm",
+      "source": "https://www.zimtile.co.zw/product/scallop-plain-60mm/",
+      "sku": "SM010604053",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix",
+          "link": "https://www.zimtile.co.zw/product-category/dry-mix/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        }
+      ],
+      "images": [
+        "/assets/scalop-300x300-1.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "id": 4685,
+      "name": "SCALLOP RED 60MM",
+      "slug": "scallop-red-60mm",
+      "source": "https://www.zimtile.co.zw/product/scallop-red-60mm/",
+      "sku": "SM010604052",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix",
+          "link": "https://www.zimtile.co.zw/product-category/dry-mix/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        }
+      ],
+      "images": [
+        "/assets/scallop-red.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "id": 4683,
+      "name": "SCALLOP BLACK 60MM",
+      "slug": "scallop-black-60mm",
+      "source": "https://www.zimtile.co.zw/product/scallop-black-60mm/",
+      "sku": "SM010604051",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix",
+          "link": "https://www.zimtile.co.zw/product-category/dry-mix/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        }
+      ],
+      "images": [
+        "/assets/scallop-black-2.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "id": 4681,
+      "name": "TRI HEX PLAIN 60MM",
+      "slug": "tri-hex-plain-60mm",
+      "source": "https://www.zimtile.co.zw/product/tri-hex-plain-60mm/",
+      "sku": "SM010604056",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix",
+          "link": "https://www.zimtile.co.zw/product-category/dry-mix/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-2026-03-11-at-3.59.49-PM2.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "id": 4679,
+      "name": "TRI HEX RED 60MM",
+      "slug": "tri-hex-red-60mm",
+      "source": "https://www.zimtile.co.zw/product/tri-hex-red-60mm/",
+      "sku": "SM010604055",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix",
+          "link": "https://www.zimtile.co.zw/product-category/dry-mix/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-2026-03-11-at-3.59.49-PM2.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "id": 4677,
+      "name": "TRI HEX BLACK 60MM",
+      "slug": "tri-hex-black-60mm",
+      "source": "https://www.zimtile.co.zw/product/tri-hex-black-60mm/",
+      "sku": "SM010604054",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix",
+          "link": "https://www.zimtile.co.zw/product-category/dry-mix/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-2026-03-11-at-3.59.49-PM2.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "id": 4675,
+      "name": "INTERLOCKING BLACK 60MM * 220MM",
+      "slug": "interlocking-black-60mm-220mm",
+      "source": "https://www.zimtile.co.zw/product/interlocking-black-60mm-220mm/",
+      "sku": "SM010604069",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix",
+          "link": "https://www.zimtile.co.zw/product-category/dry-mix/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        }
+      ],
+      "images": [
+        "/assets/images-black-paver.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "40"
+        }
+      ]
+    },
+    {
+      "id": 4673,
+      "name": "INTERLOCKING RED 60MM * 220MM",
+      "slug": "interlocking-red-60mm-220mm",
+      "source": "https://www.zimtile.co.zw/product/interlocking-red-60mm-220mm/",
+      "sku": "SM010604068",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix",
+          "link": "https://www.zimtile.co.zw/product-category/dry-mix/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        }
+      ],
+      "images": [
+        "/assets/Zig-Zag-Concrete-Paver-red-scaled.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "40"
+        }
+      ]
+    },
+    {
+      "id": 4671,
+      "name": "INTERLOCKING PLAIN 60MM * 220MM",
+      "slug": "interlocking-plain-60mm-220mm",
+      "source": "https://www.zimtile.co.zw/product/interlocking-plain-60mm-220mm/",
+      "sku": "SM010604059",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix",
+          "link": "https://www.zimtile.co.zw/product-category/dry-mix/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        }
+      ],
+      "images": [
+        "/assets/Grey-Premium-Interlocking-Pavers-Used-To-Pave-an-Entrance-for-a-Complex.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "40"
+        }
+      ]
+    },
+    {
+      "id": 4659,
+      "name": "OXIDE YELLOW",
+      "slug": "oxide-yellow",
+      "source": "https://www.zimtile.co.zw/product/oxide-yellow/",
+      "sku": "RM160101023",
+      "categories": [
+        {
+          "id": 52,
+          "name": "Other Accessories",
+          "slug": "other-accessories",
+          "link": "https://www.zimtile.co.zw/product-category/other-accessories/"
+        },
+        {
+          "id": 52,
+          "name": "Other Accessories",
+          "slug": "other-accessories"
+        }
+      ],
+      "images": [
+        "/assets/yellow-iron-oxide-natural-250x250-1.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4657,
+      "name": "OXIDE F6600 AMBER / TAN",
+      "slug": "oxide-f6600-amber-tan",
+      "source": "https://www.zimtile.co.zw/product/oxide-f6600-amber-tan/",
+      "sku": "RM160101006",
+      "categories": [
+        {
+          "id": 52,
+          "name": "Other Accessories",
+          "slug": "other-accessories",
+          "link": "https://www.zimtile.co.zw/product-category/other-accessories/"
+        },
+        {
+          "id": 52,
+          "name": "Other Accessories",
+          "slug": "other-accessories"
+        }
+      ],
+      "images": [
+        "/assets/iron-oxide-amber-powder.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4655,
+      "name": "OXIDE F9330 BLACK",
+      "slug": "oxide-f9330-black",
+      "source": "https://www.zimtile.co.zw/product/oxide-f9330-black/",
+      "sku": "RM160101005",
+      "categories": [
+        {
+          "id": 52,
+          "name": "Other Accessories",
+          "slug": "other-accessories",
+          "link": "https://www.zimtile.co.zw/product-category/other-accessories/"
+        },
+        {
+          "id": 52,
+          "name": "Other Accessories",
+          "slug": "other-accessories"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-2025-10-09-at-2.18.20-PM.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4637,
+      "name": "SMOOTH RECTANGLE BLACK 400X200X50",
+      "slug": "smooth-rectangle-black-400x200x50",
+      "source": "https://www.zimtile.co.zw/product/smooth-rectangle-black-400x200x50/",
+      "sku": "SM010605038",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 123,
+          "name": "Wet Mix Paving Slabs",
+          "slug": "wet-mix-paving-slabs",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paving-slabs/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 123,
+          "name": "Wet Mix Paving Slabs",
+          "slug": "wet-mix-paving-slabs"
+        }
+      ],
+      "images": [
+        "/assets/486062970_1063614195811339_1139186592080500854_n-frenchhh.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12.50"
+        }
+      ]
+    },
+    {
+      "id": 4635,
+      "name": "SMOOTH RECTANGLE LIGHT BLACK 400X200X50",
+      "slug": "smooth-rectangle-light-black-400x200x50",
+      "source": "https://www.zimtile.co.zw/product/smooth-rectangle-light-black-400x200x50/",
+      "sku": "SM010605042",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 123,
+          "name": "Wet Mix Paving Slabs",
+          "slug": "wet-mix-paving-slabs",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paving-slabs/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 123,
+          "name": "Wet Mix Paving Slabs",
+          "slug": "wet-mix-paving-slabs"
+        }
+      ],
+      "images": [
+        "/assets/smooth-paving-slab-grey-400.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12.50"
+        }
+      ]
+    },
+    {
+      "id": 4633,
+      "name": "SMOOTH RECTANGLE CHARCOAL BLACK 400X200X50",
+      "slug": "smooth-rectangle-charcoal-black-400x200x50",
+      "source": "https://www.zimtile.co.zw/product/smooth-rectangle-charcoal-black-400x200x50/",
+      "sku": "SM010605041",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 123,
+          "name": "Wet Mix Paving Slabs",
+          "slug": "wet-mix-paving-slabs",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paving-slabs/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 123,
+          "name": "Wet Mix Paving Slabs",
+          "slug": "wet-mix-paving-slabs"
+        }
+      ],
+      "images": [
+        "/assets/Proj-Supermarket_Hre.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12.50"
+        }
+      ]
+    },
+    {
+      "id": 4631,
+      "name": "SMOOTH RECTANGLE RED 400X200X50",
+      "slug": "smooth-rectangle-red-400x200x50",
+      "source": "https://www.zimtile.co.zw/product/smooth-rectangle-red-400x200x50/",
+      "sku": "SM010605047",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 123,
+          "name": "Wet Mix Paving Slabs",
+          "slug": "wet-mix-paving-slabs",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paving-slabs/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 123,
+          "name": "Wet Mix Paving Slabs",
+          "slug": "wet-mix-paving-slabs"
+        }
+      ],
+      "images": [
+        "/assets/zimtiles-184-of-262-6.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12.50"
+        }
+      ]
+    },
+    {
+      "id": 4629,
+      "name": "SMOOTH RECTANGLE PLAIN 400X200X50",
+      "slug": "smooth-rectangle-plain-400x200x50",
+      "source": "https://www.zimtile.co.zw/product/smooth-rectangle-plain-400x200x50/",
+      "sku": "SM010605074",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 123,
+          "name": "Wet Mix Paving Slabs",
+          "slug": "wet-mix-paving-slabs",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paving-slabs/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 123,
+          "name": "Wet Mix Paving Slabs",
+          "slug": "wet-mix-paving-slabs"
+        }
+      ],
+      "images": [
+        "/assets/486062970_1063614195811339_1139186592080500854_n-frenchhh.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12.50"
+        }
+      ]
+    },
+    {
+      "id": 4627,
+      "name": "French Design Sand 200X200x30",
+      "slug": "french-design-sand-200x200x30",
+      "source": "https://www.zimtile.co.zw/product/french-design-sand-200x200x30/",
+      "sku": "SM010601049",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paving-tiles/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles"
+        }
+      ],
+      "images": [
+        "/assets/prod-image-coming-soon.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "id": 4625,
+      "name": "French Design Sand 200x400x30",
+      "slug": "french-design-sand-200x400x30",
+      "source": "https://www.zimtile.co.zw/product/french-design-sand-200x400x30/",
+      "sku": "SM010601050",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paving-tiles/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles"
+        }
+      ],
+      "images": [
+        "/assets/french-plain-400.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12.5"
+        }
+      ]
+    },
+    {
+      "id": 4623,
+      "name": "French Design Sand 400x400x30",
+      "slug": "french-design-sand-400x400x30",
+      "source": "https://www.zimtile.co.zw/product/french-design-sand-400x400x30/",
+      "sku": "SM010601051",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paving-tiles/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles"
+        }
+      ],
+      "images": [
+        "/assets/french-plain-400.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "6.25"
+        }
+      ]
+    },
+    {
+      "id": 4621,
+      "name": "French Design Black 400x400x30",
+      "slug": "french-design-black-400x400x30",
+      "source": "https://www.zimtile.co.zw/product/french-design-black-400x400x30/",
+      "sku": "SM010601055",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paving-tiles/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles"
+        }
+      ],
+      "images": [
+        "/assets/french-sand-400.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "6.25"
+        }
+      ]
+    },
+    {
+      "id": 4619,
+      "name": "French Design Red 400x400x30",
+      "slug": "french-design-red-400x400x30",
+      "source": "https://www.zimtile.co.zw/product/french-design-red-400x400x30/",
+      "sku": "SM010601054",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paving-tiles/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-french.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "6.25"
+        }
+      ]
+    },
+    {
+      "id": 4617,
+      "name": "French Design Plain 400x400x30",
+      "slug": "french-design-plain-400x400x30",
+      "source": "https://www.zimtile.co.zw/product/french-design-plain-400x400x30/",
+      "sku": "SM010601048",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paving-tiles/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles"
+        }
+      ],
+      "images": [
+        "/assets/french-sand-400-1.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "6.25"
+        }
+      ]
+    },
+    {
+      "id": 4615,
+      "name": "French Design Red 200X200x30",
+      "slug": "french-design-red-200x200x30",
+      "source": "https://www.zimtile.co.zw/product/french-design-red-200x200x30/",
+      "sku": "SM010601047",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paving-tiles/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010604099.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "id": 4613,
+      "name": "French Design Black 200X200x30",
+      "slug": "french-design-black-200x200x30",
+      "source": "https://www.zimtile.co.zw/product/french-design-black-200x200x30/",
+      "sku": "SM010601046",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paving-tiles/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010604097.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "id": 4611,
+      "name": "French design plain 200X200x30",
+      "slug": "french-design-plain-200x200x30",
+      "source": "https://www.zimtile.co.zw/product/french-design-plain-200x200x30/",
+      "sku": "SM010601045",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paving-tiles/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010604099.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "id": 4606,
+      "name": "French Design Black",
+      "slug": "french-design-black",
+      "source": "https://www.zimtile.co.zw/product/french-design-black/",
+      "sku": "SM010601043",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paving-tiles/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles"
+        }
+      ],
+      "images": [
+        "/assets/im.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12.5"
+        }
+      ]
+    },
+    {
+      "id": 4604,
+      "name": "French Design Plain",
+      "slug": "french-design-plain",
+      "source": "https://www.zimtile.co.zw/product/french-design-plain/",
+      "sku": "SM010601042",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paving-tiles/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010604099.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12.5"
+        }
+      ]
+    },
+    {
+      "id": 4596,
+      "name": "Wood Design Red",
+      "slug": "wood-design-red",
+      "source": "https://www.zimtile.co.zw/product/wood-design-red/",
+      "sku": "SM010601029",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paving-tiles/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-2026-03-13-at-12.18.19-PM1.webp"
+      ],
+      "details": "Wood Design Concrete Tiles replicate teak, oak, or mahogany visuals with chip- and warp-proof performance. The digitally printed surface withstands UV exposure and heavy furniture, making them ideal for: Outdoor decks & balconies Bathroom floors Commercial retail spaces Technical edge : DCOF &gt;0.65 slip resistance and 20-year color warranty",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "11.11"
+        }
+      ]
+    },
+    {
+      "id": 3377,
+      "name": "Holland Plain 60mm Pavers",
+      "slug": "holland-plain-60mm-pavers",
+      "source": "https://www.zimtile.co.zw/product/holland-plain-60mm-pavers/",
+      "sku": "SM010604003",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix",
+          "link": "https://www.zimtile.co.zw/product-category/dry-mix/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-2026-03-11-at-4.07.04-PM.webp"
+      ],
+      "details": "Engineered for versatility, these 60mm-thick concrete pavers feature a plain granular finish in neutral tones. Their uniform 100 × 200 mm dimensions enable seamless herringbone, stack bond, or basketweave patterns. With 50+ MPa compressive strength and ≤5% water absorption, they resist freeze-thaw cycles (-30°C to 65°C), de-icing salts, and heavy loads. ADA-compliant gaps ensure accessibility.",
+      "attributes": [
+        {
+          "name": "Material",
+          "value": "High-density concrete"
+        },
+        {
+          "name": "Dimensions (L×W×H)",
+          "value": "100 mm × 200 mm × 60 mm"
+        },
+        {
+          "name": "Weight",
+          "value": "6 kg/unit"
+        }
+      ]
+    },
+    {
+      "id": 4589,
+      "name": "Wood Design Black",
+      "slug": "wood-design-black",
+      "source": "https://www.zimtile.co.zw/product/wood-design-black/",
+      "sku": "SM010601028",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paving-tiles/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-2026-03-13-at-12.18.19-PM1.webp"
+      ],
+      "details": "Wood Design Concrete Tiles replicate teak, oak, or mahogany visuals with chip- and warp-proof performance. The digitally printed surface withstands UV exposure and heavy furniture, making them ideal for: Outdoor decks & balconies Bathroom floors Commercial retail spaces Technical edge : DCOF &gt;0.65 slip resistance and 20-year color warranty",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "11.11"
+        }
+      ]
+    },
+    {
+      "id": 3455,
+      "name": "Wood Design plain",
+      "slug": "wood-design-plain",
+      "source": "https://www.zimtile.co.zw/product/wood-design-plain/",
+      "sku": "SM010601027",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paving-tiles/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 122,
+          "name": "Wet Mix Paving Tiles",
+          "slug": "wet-mix-paving-tiles"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-2026-03-13-at-12.18.19-PM1-1.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "11.11"
+        }
+      ]
+    },
+    {
+      "id": 3410,
+      "name": "Trihex Plain",
+      "slug": "trihex-plain",
+      "source": "https://www.zimtile.co.zw/product/trihex-plain/",
+      "sku": "SM010604132",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paver/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver"
+        }
+      ],
+      "images": [
+        "/assets/prod-Trihex-Pavers-b.webp",
+        "/assets/prod-Trihex-Pavers-b.webp",
+        "/assets/prod-Trihex-Pavers-c.webp"
+      ],
+      "details": "Engineered for demanding environments, Trihex Pavers combine robust performance with aesthetic versatility. Their patented hexagonal design (186mm W × 92mm D × 80mm H) interlocks seamlessly to create continuous, crack-resistant surfaces without repetitive lines. Crafted from high-density concrete, they withstand freeze-thaw cycles, de-icing salts, and vehicular loads exceeding 3,500 kg axles . Compatible with permeable systems like Ecotrihex® for integrated stormwater management, these pavers offer textures ranging from smooth to shot-blasted for customized slip resistance. Key Innovations: Seamless Aesthetics : Hexagonal geometry enables fluid patterns ideal for large-scale projects (e.g., Sydney Olympic Park). Hybrid Permeability : Integrates with permeable Ecotrihex® pavers for eco-compliant drainage. Machine-Lay Ready : Optimized for mechanical installation, reducing labor costs by 30% . UV-Stable Colors : Iron oxide pigments retain vibrancy in oatmeal, charcoal, grey, and red finishes",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "id": 4567,
+      "name": "Grass Octagon Design Plain",
+      "slug": "grass-octagon-design-plain",
+      "source": "https://www.zimtile.co.zw/product/grass-octagon-design-plain/",
+      "sku": "SM010604135",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paver/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver"
+        }
+      ],
+      "images": [
+        "/assets/gras-paver.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12.5"
+        }
+      ]
+    },
+    {
+      "id": 4565,
+      "name": "3D Arrow Big Red",
+      "slug": "3d-arrow-big-red",
+      "source": "https://www.zimtile.co.zw/product/3d-arrow-big-red/",
+      "sku": "SM010604139",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paver/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-2026-03-05-at-3.37.38-PM-1.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "27.78"
+        }
+      ]
+    },
+    {
+      "id": 4562,
+      "name": "3D Arrow Big Black",
+      "slug": "3d-arrow-big-black",
+      "source": "https://www.zimtile.co.zw/product/3d-arrow-big-black/",
+      "sku": "SM010604138",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paver/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-2026-03-05-at-3.37.38-PM-1.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "27.78"
+        }
+      ]
+    },
+    {
+      "id": 4560,
+      "name": "3D Arrow Big Plain",
+      "slug": "3d-arrow-big-plain",
+      "source": "https://www.zimtile.co.zw/product/3d-arrow-big-plain/",
+      "sku": "SM010604134",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paver/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver"
+        }
+      ],
+      "images": [
+        "/assets/big-arrow.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "27.78"
+        }
+      ]
+    },
+    {
+      "id": 4558,
+      "name": "3D Arrow Red",
+      "slug": "3d-arrow-red",
+      "source": "https://www.zimtile.co.zw/product/3d-arrow-red/",
+      "sku": "SM010604120",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paver/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver"
+        }
+      ],
+      "images": [
+        "/assets/product-jpeg-500x500-1.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "48"
+        }
+      ]
+    },
+    {
+      "id": 4556,
+      "name": "3D Arrow Black",
+      "slug": "3d-arrow-black",
+      "source": "https://www.zimtile.co.zw/product/3d-arrow-black/",
+      "sku": "SM010604119",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paver/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-2026-03-06-at-12.14.44-PM.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "48"
+        }
+      ]
+    },
+    {
+      "id": 4554,
+      "name": "3D Arrow plain",
+      "slug": "3d-arrow-plain",
+      "source": "https://www.zimtile.co.zw/product/3d-arrow-plain/",
+      "sku": "SM010604118",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paver/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-2026-03-06-at-12.14.44-PM.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "48"
+        }
+      ]
+    },
+    {
+      "id": 4551,
+      "name": "Scalop Diamond Design Red",
+      "slug": "scalop-diamond-design-red",
+      "source": "https://www.zimtile.co.zw/product/scalop-diamond-design-red/",
+      "sku": "SM010604137",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paver/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver"
+        }
+      ],
+      "images": [
+        "/assets/scallop-red.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "id": 4548,
+      "name": "Scalop Diamond Design Black",
+      "slug": "scalop-diamond-design-black",
+      "source": "https://www.zimtile.co.zw/product/scalop-diamond-design-black/",
+      "sku": "SM010604136",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paver/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver"
+        }
+      ],
+      "images": [
+        "/assets/scallop-black-1.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "id": 4546,
+      "name": "Scalop Diamond Design Plain",
+      "slug": "scalop-diamond-design-plain",
+      "source": "https://www.zimtile.co.zw/product/scalop-diamond-design-plain/",
+      "sku": "SM010604133",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paver/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver"
+        }
+      ],
+      "images": [
+        "/assets/scallop-red.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "id": 4544,
+      "name": "Trihex Red",
+      "slug": "trihex-red",
+      "source": "https://www.zimtile.co.zw/product/trihex-red/",
+      "sku": "SM010604141",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paver/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-2026-03-11-at-3.59.49-PM2.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "id": 4542,
+      "name": "Trihex Black",
+      "slug": "trihex-black",
+      "source": "https://www.zimtile.co.zw/product/trihex-black/",
+      "sku": "SM010604140",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paver/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-2026-03-11-at-3.59.49-PM2.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "id": 4537,
+      "name": "3D Diamond red",
+      "slug": "3d-diamond-red",
+      "source": "https://www.zimtile.co.zw/product/3d-diamond-red/",
+      "sku": "SM010604123",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paver/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-2026-03-03-at-4.52.51-PM.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "18.90"
+        }
+      ]
+    },
+    {
+      "id": 4535,
+      "name": "3D Diamond black",
+      "slug": "3d-diamond-black",
+      "source": "https://www.zimtile.co.zw/product/3d-diamond-black/",
+      "sku": "SM010604122",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paver/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver"
+        }
+      ],
+      "images": [
+        "/assets/3d-diamond-black.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "18.90"
+        }
+      ]
+    },
+    {
+      "id": 4533,
+      "name": "3D Diamond plain",
+      "slug": "3d-diamond-plain",
+      "source": "https://www.zimtile.co.zw/product/3d-diamond-plain/",
+      "sku": "SM010604121",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paver/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver"
+        }
+      ],
+      "images": [
+        "/assets/image.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "18.90"
+        }
+      ]
+    },
+    {
+      "id": 4531,
+      "name": "Cassablanca red",
+      "slug": "cassablanca-red",
+      "source": "https://www.zimtile.co.zw/product/cassablanca-red/",
+      "sku": "SM010604108",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paver/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver"
+        }
+      ],
+      "images": [
+        "/assets/prod-cassablanca-pavers.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "34.97"
+        }
+      ]
+    },
+    {
+      "id": 4529,
+      "name": "Cassablanca black",
+      "slug": "cassablanca-black",
+      "source": "https://www.zimtile.co.zw/product/cassablanca-black/",
+      "sku": "SM010604107",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paver/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver"
+        }
+      ],
+      "images": [
+        "/assets/casablanca-paver-60mm-2.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "34.97"
+        }
+      ]
+    },
+    {
+      "id": 4524,
+      "name": "Cobble 100 red",
+      "slug": "cobble-100-red",
+      "source": "https://www.zimtile.co.zw/product/cobble-100-red/",
+      "sku": "SM010604099",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 120,
+          "name": "Wet Mix Cobble",
+          "slug": "wet-mix-cobble",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-cobble/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 120,
+          "name": "Wet Mix Cobble",
+          "slug": "wet-mix-cobble"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-2026-03-13-at-12.20.45-PM.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "100"
+        }
+      ]
+    },
+    {
+      "id": 4522,
+      "name": "Cobble 100 black",
+      "slug": "cobble-100-black",
+      "source": "https://www.zimtile.co.zw/product/cobble-100-black/",
+      "sku": "SM010604098",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 120,
+          "name": "Wet Mix Cobble",
+          "slug": "wet-mix-cobble",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-cobble/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 120,
+          "name": "Wet Mix Cobble",
+          "slug": "wet-mix-cobble"
+        }
+      ],
+      "images": [
+        "/assets/coble-100.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "100"
+        }
+      ]
+    },
+    {
+      "id": 4520,
+      "name": "Cobble 100 plain",
+      "slug": "cobble-100-plain",
+      "source": "https://www.zimtile.co.zw/product/cobble-100-plain/",
+      "sku": "SM010604097",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 120,
+          "name": "Wet Mix Cobble",
+          "slug": "wet-mix-cobble",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-cobble/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 120,
+          "name": "Wet Mix Cobble",
+          "slug": "wet-mix-cobble"
+        }
+      ],
+      "images": [
+        "/assets/DSC03626-scaled.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "100"
+        }
+      ]
+    },
+    {
+      "id": 4518,
+      "name": "Cobble 200 red",
+      "slug": "cobble-200-red",
+      "source": "https://www.zimtile.co.zw/product/cobble-200-red/",
+      "sku": "SM010604096",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 120,
+          "name": "Wet Mix Cobble",
+          "slug": "wet-mix-cobble",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-cobble/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 120,
+          "name": "Wet Mix Cobble",
+          "slug": "wet-mix-cobble"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010604096.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "id": 4516,
+      "name": "Cobble 200 black",
+      "slug": "cobble-200-black",
+      "source": "https://www.zimtile.co.zw/product/cobble-200-black/",
+      "sku": "SM010604095",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 120,
+          "name": "Wet Mix Cobble",
+          "slug": "wet-mix-cobble",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-cobble/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 120,
+          "name": "Wet Mix Cobble",
+          "slug": "wet-mix-cobble"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010604095.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "id": 4514,
+      "name": "Cobble 200 plain",
+      "slug": "cobble-200-plain",
+      "source": "https://www.zimtile.co.zw/product/cobble-200-plain/",
+      "sku": "SM010604094",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 120,
+          "name": "Wet Mix Cobble",
+          "slug": "wet-mix-cobble",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-cobble/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 120,
+          "name": "Wet Mix Cobble",
+          "slug": "wet-mix-cobble"
+        }
+      ],
+      "images": [
+        "/assets/DSC03367-scaled.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4512,
+      "name": "Cobble 150 red",
+      "slug": "cobble-150-red",
+      "source": "https://www.zimtile.co.zw/product/cobble-150-red/",
+      "sku": "SM010604093",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 120,
+          "name": "Wet Mix Cobble",
+          "slug": "wet-mix-cobble",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-cobble/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 120,
+          "name": "Wet Mix Cobble",
+          "slug": "wet-mix-cobble"
+        }
+      ],
+      "images": [
+        "/assets/coble-150.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4510,
+      "name": "Cobble 150 black",
+      "slug": "cobble-150-black",
+      "source": "https://www.zimtile.co.zw/product/cobble-150-black/",
+      "sku": "SM010604092",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 120,
+          "name": "Wet Mix Cobble",
+          "slug": "wet-mix-cobble",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-cobble/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 120,
+          "name": "Wet Mix Cobble",
+          "slug": "wet-mix-cobble"
+        }
+      ],
+      "images": [
+        "/assets/coble-150-1.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4504,
+      "name": "Cobble 150 plain 150X150X50",
+      "slug": "cobble-150-plain-150x150x50",
+      "source": "https://www.zimtile.co.zw/product/cobble-150-plain-150x150x50/",
+      "sku": "SM010604091",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 120,
+          "name": "Wet Mix Cobble",
+          "slug": "wet-mix-cobble",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-cobble/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 120,
+          "name": "Wet Mix Cobble",
+          "slug": "wet-mix-cobble"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-2026-03-06-at-3.20.03-PM.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "44.44"
+        }
+      ]
+    },
+    {
+      "id": 4464,
+      "name": "TAPPERED HIP STARTER RED 130",
+      "slug": "tappered-hip-starter-red-130",
+      "source": "https://www.zimtile.co.zw/product/tappered-hip-starter-red-130/",
+      "sku": "SM010602019",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/cat-Concrete-Ridges.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4462,
+      "name": "TAPPERED HIP STARTER RED 110",
+      "slug": "tappered-hip-starter-red-110",
+      "source": "https://www.zimtile.co.zw/product/tappered-hip-starter-red-110/",
+      "sku": "SM010602018",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010602017.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4460,
+      "name": "HIP STARTER RED 110",
+      "slug": "hip-starter-red-110",
+      "source": "https://www.zimtile.co.zw/product/hip-starter-red-110/",
+      "sku": "SM010602017",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010602017.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4458,
+      "name": "HIP STARTER PLAIN",
+      "slug": "hip-starter-plain",
+      "source": "https://www.zimtile.co.zw/product/hip-starter-plain/",
+      "sku": "SM010602016",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010602016.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 4454,
+      "name": "HIP STARTER RED 130",
+      "slug": "hip-starter-red-130",
+      "source": "https://www.zimtile.co.zw/product/hip-starter-red-130/",
+      "sku": "SM010602014",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges",
+          "link": "https://www.zimtile.co.zw/product-category/concrete-ridges/"
+        },
+        {
+          "id": 45,
+          "name": "Concrete Ridges",
+          "slug": "concrete-ridges"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010602014.webp"
+      ],
+      "details": "",
+      "attributes": []
+    },
+    {
+      "id": 3437,
+      "name": "KERBSTONE Domestic 500x230x70",
+      "slug": "kerbstone-domestic-500x230x70",
+      "source": "https://www.zimtile.co.zw/product/kerbstone-domestic-500x230x70/",
+      "sku": "SM010606004",
+      "categories": [
+        {
+          "id": 124,
+          "name": "Wet Mix Others",
+          "slug": "wet-mix-others",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-others/"
+        },
+        {
+          "id": 124,
+          "name": "Wet Mix Others",
+          "slug": "wet-mix-others"
+        }
+      ],
+      "images": [
+        "/assets/domestic-kerb.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "Material",
+          "value": "High-density concrete"
+        },
+        {
+          "name": "Top Profile",
+          "value": "Tapered, Round, or Rectangular"
+        },
+        {
+          "name": "Load Capacity",
+          "value": "1–3 tons (residential vehicles)"
+        }
+      ]
+    },
+    {
+      "id": 3434,
+      "name": "BREEZE BLOCKS Square design 300x300x70",
+      "slug": "breeze-blocks-square-design-300x300x70",
+      "source": "https://www.zimtile.co.zw/product/breeze-blocks-square-design-300x300x70/",
+      "sku": "SM010603046",
+      "categories": [
+        {
+          "id": 124,
+          "name": "Wet Mix Others",
+          "slug": "wet-mix-others",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-others/"
+        },
+        {
+          "id": 124,
+          "name": "Wet Mix Others",
+          "slug": "wet-mix-others"
+        }
+      ],
+      "images": [
+        "/assets/product-jpeg-500x500-breeze-block.webp",
+        "/assets/prod-Square-Design-Breeze-Blocks-b.webp"
+      ],
+      "details": "Square Design Breeze Block redefines spaces with its iconic grid-like design, offering privacy without sacrificing ventilation or natural light. Precision-manufactured using fine sand aggregate and hydraulic pressing, these blocks feature: Timeless Appeal : Clean, repetitive square motifs create striking shadow patterns for mid-century modern or contemporary projects. Climate Resilience : Withstands temperature extremes (-30°C to 65°C) and UV exposure due to ≤5% water absorption and frost-resistant concrete. Dual-Sided Finish : Smooth surfaces on both sides ensure a refined look for visible interiors or façades. Eco-Functional : Reduces cooling costs by promoting cross-ventilation; compatible with sustainable building practices 10 . Applications : Pool enclosures, garden screens, room dividers, and commercial façades.",
+      "attributes": [
+        {
+          "name": "Material",
+          "value": "High-density concrete"
+        },
+        {
+          "name": "Weight",
+          "value": "8.4–8.5 kg/unit"
+        },
+        {
+          "name": "Coverage",
+          "value": "11–12.5 units/m² (1 unit = 0.084 m²)"
+        }
+      ]
+    },
+    {
+      "id": 3428,
+      "name": "BLOCKS – SMALL 400mmx200mmx115mm",
+      "slug": "blocks-small",
+      "source": "https://www.zimtile.co.zw/product/blocks-small/",
+      "sku": "SM010603003",
+      "categories": [
+        {
+          "id": 47,
+          "name": "Bricks and Blocks",
+          "slug": "bricks-and-blocks",
+          "link": "https://www.zimtile.co.zw/product-category/bricks-and-blocks/"
+        },
+        {
+          "id": 47,
+          "name": "Bricks and Blocks",
+          "slug": "bricks-and-blocks"
+        }
+      ],
+      "images": [
+        "/assets/8x8x16-Concrete-Block-Grey-1.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "Material",
+          "value": "High-density concrete"
+        },
+        {
+          "name": "Types",
+          "value": "Hollow, Solid, Lintel, Retaining Wall"
+        },
+        {
+          "name": "Water Absorption",
+          "value": "≤5% (hollow); ≤6% (solid)"
+        }
+      ]
+    },
+    {
+      "id": 3424,
+      "name": "Load Bearing Brick 220mm",
+      "slug": "load-bearing-brick-220mm",
+      "source": "https://www.zimtile.co.zw/product/load-bearing-brick-220mm/",
+      "sku": "SM010603041",
+      "categories": [
+        {
+          "id": 47,
+          "name": "Bricks and Blocks",
+          "slug": "bricks-and-blocks",
+          "link": "https://www.zimtile.co.zw/product-category/bricks-and-blocks/"
+        },
+        {
+          "id": 47,
+          "name": "Bricks and Blocks",
+          "slug": "bricks-and-blocks"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010603041.webp"
+      ],
+      "details": "Zimtile’s Load Bearing Concrete Bricks are precision-manufactured to meet rigorous construction demands. Designed for load-bearing applications, these bricks offer: Exceptional Strength : 10–15 MPa compressive strength supports multi-story buildings and heavy infrastructure. Climate Resilience : Withstands Zimbabwe’s diverse climate, including freeze-thaw cycles (-30°C to 65°C) and heavy rains, with ≤5% water absorption. Eco-Efficiency : Incorporates 20% recycled materials and reduces transport costs through local production. Fire Safety : Class A1 non-combustible rating ensures compliance with safety standards. Ideal for residential, commercial, and industrial projects requiring durability and cost-effectiveness.",
+      "attributes": [
+        {
+          "name": "Material",
+          "value": "High-density concrete"
+        },
+        {
+          "name": "Water Absorption",
+          "value": "≤5%"
+        },
+        {
+          "name": "Coverage",
+          "value": "52 units/m² (single-brick wall)"
+        }
+      ]
+    },
+    {
+      "id": 3398,
+      "name": "Interlocking Red 60mm Pavers",
+      "slug": "interlocking-red-60mm-pavers",
+      "source": "https://www.zimtile.co.zw/product/interlocking-red-60mm-pavers/",
+      "sku": "SM010604009",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix",
+          "link": "https://www.zimtile.co.zw/product-category/dry-mix/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        }
+      ],
+      "images": [
+        "/assets/Zig-Zag-Concrete-Paver-red-scaled.webp"
+      ],
+      "details": "Engineered for commercial resilience, Interlocking Red 60mm Pavers combine bold color retention and structural robustness. The interlocking design creates load-distributing rigidity, while high-density concrete (25–35 MPa tensile strength) ensures resistance to cracking, de-icing salts, and temperatures from -30°C to 65°C. UV-inhibited pigments maintain the rich red hue for decades, and the uniform dimensions enable rapid installation in herringbone or stack-bond patterns. Key Innovations: Shear-Key Interlock : Geometric edges prevent shifting under loads up to 3,000 kg axles . Weather Armor : ≤5% water absorption and freeze-thaw resilience. Eco-Options : Permeable joint compatibility reduces stormwater runoff. Applications : Commercial driveways, parking lots, industrial pathways, and municipal plazas.",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "50"
+        }
+      ]
+    },
+    {
+      "id": 3395,
+      "name": "Interlocking Plain 60mm Pavers",
+      "slug": "interlocking-plain-60mm-pavers",
+      "source": "https://www.zimtile.co.zw/product/interlocking-plain-60mm-pavers/",
+      "sku": "SM010604008",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix",
+          "link": "https://www.zimtile.co.zw/product-category/dry-mix/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-2026-03-11-at-11.50.45-AM.webp"
+      ],
+      "details": "Engineered for efficiency, these 60mm-thick interlocking concrete pavers feature a plain granular finish and standardized 300 × 300 mm dimensions. The precision shear-key edges create rigid, load-distributing surfaces, while the ≤5% water absorption ensures resistance to freeze-thaw cycles (-30°C to 65°C) and de-icing salts. Compatible with permeable bases for sustainable stormwater management.",
+      "attributes": []
+    },
+    {
+      "id": 3386,
+      "name": "INTERLOCKING PLAIN 80MM * 225MM",
+      "slug": "interlocking-plain-80mm-225mm",
+      "source": "https://www.zimtile.co.zw/product/interlocking-plain-80mm-225mm/",
+      "sku": "SM010604060",
+      "categories": [
+        {
+          "id": 46,
+          "name": "Industrial Pavers and Precast",
+          "slug": "industrial-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/industrial-pavers-and-precast/"
+        },
+        {
+          "id": 46,
+          "name": "Industrial Pavers and Precast",
+          "slug": "industrial-pavers-and-precast"
+        }
+      ],
+      "images": [
+        "/assets/WhatsApp-Image-2026-03-11-at-11.50.43-AM1.webp"
+      ],
+      "details": "Designed for ports, warehouses, and high-traffic areas, these extra-large pavers feature interlocking edges to prevent shifting under heavy vehicles. The 80mm thickness and 3:1 aspect ratio ensure structural integrity. Available in gray, charcoal, or terracotta.",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "40"
+        }
+      ]
+    },
+    {
+      "id": 3383,
+      "name": "Interlocking Black 60mm Pavers",
+      "slug": "interlocking-black-60mm-pavers",
+      "source": "https://www.zimtile.co.zw/product/interlocking-black-60mm-pavers/",
+      "sku": "SM010604006",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix",
+          "link": "https://www.zimtile.co.zw/product-category/dry-mix/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        }
+      ],
+      "images": [
+        "/assets/images-black-paver.webp"
+      ],
+      "details": "Featuring precision-engineered edges for seamless interlock, these pavers create rigid pavements that distribute loads evenly. The dark granular finish hides dirt, while 60mm thickness ensures stability under traffic. Compatible with permeable bases for stormwater management.",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "50"
+        }
+      ]
+    },
+    {
+      "id": 3380,
+      "name": "Holland Red 60mm Pavers",
+      "slug": "holland-red-60mm-pavers",
+      "source": "https://www.zimtile.co.zw/product/holland-red-60mm-pavers/",
+      "sku": "SM010604004",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix",
+          "link": "https://www.zimtile.co.zw/product-category/dry-mix/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        }
+      ],
+      "images": [
+        "/assets/red-holland.webp"
+      ],
+      "details": "Crafted with iron oxide pigments, these pavers retain their rich red hue under prolonged UV exposure. The 60mm thickness supports vehicular loads (≥3,000 kg axles), while tumbled edges enhance anti-slip properties. Exceeds ASTM C936 standards for compressive strength and weather resistance.",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "50"
+        }
+      ]
+    },
+    {
+      "id": 3374,
+      "name": "Holland Black 60mm Pavers",
+      "slug": "holland-black-60mm-pavers",
+      "source": "https://www.zimtile.co.zw/product/holland-black-60mm-pavers/",
+      "sku": "SM010604002",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix",
+          "link": "https://www.zimtile.co.zw/product-category/dry-mix/"
+        },
+        {
+          "id": 50,
+          "name": "Dry Mix",
+          "slug": "dry-mix"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        }
+      ],
+      "images": [
+        "/assets/60mm-holland.webp"
+      ],
+      "details": "Achieve minimalist elegance with Holland Black 60mm Pavers —engineered for high-traffic durability and design versatility. These rectangular concrete pavers feature: Ultra-Dense Construction : 70 MPa compressive strength and ≤5% water absorption for freeze-thaw resistance (-30°C to 65°C). Low-Maintenance Finish : Granular charcoal-black surface hides stains and resists fading. Pattern Flexibility : Uniform sizing enables herringbone, stack bond, or mixed layouts. Eco-Compliance : Permeable base compatibility reduces stormwater runoff. Applications : Driveways, pedestrian zones, commercial plazas, and geometric garden accents.",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "50"
+        }
+      ]
+    },
+    {
+      "id": 3368,
+      "name": "Cassablanca Plain",
+      "slug": "cassablanca-plain",
+      "source": "https://www.zimtile.co.zw/product/cassablanca-plain/",
+      "sku": "SM010604106",
+      "categories": [
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast",
+          "link": "https://www.zimtile.co.zw/product-category/domestic-pavers-and-precast/"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver",
+          "link": "https://www.zimtile.co.zw/product-category/wet-mix-paver/"
+        },
+        {
+          "id": 51,
+          "name": "Domestic Pavers and Precast",
+          "slug": "domestic-pavers-and-precast"
+        },
+        {
+          "id": 121,
+          "name": "Wet Mix Paver",
+          "slug": "wet-mix-paver"
+        }
+      ],
+      "images": [
+        "/assets/casablanca-paver-60mm-2.webp"
+      ],
+      "details": "Transport your hardscape to the Mediterranean with Cassablanca Pavers —meticulously engineered to emulate centuries-old cobblestone charm with contemporary performance. Crafted from high-density concrete (8,000–10,000 PSI), these pavers feature: Authentic Vintage Aesthetics : Softly tumbled edges and multi-tonal color blends (Terra Cotta, Sandalwood, Graphite) that hide dirt and wear. Commercial-Grade Resilience : Withstands freeze-thaw cycles (-30°F to 150°F), de-icing salts, and 12,000+ PSI vehicle loads (HD2 technology). Safety & Accessibility : Non-slip, textured finish (V3–V4 DIN slip rating) and ADA-compliant flat surfaces. Eco-Engineered : 23% recycled materials; permeable joint options for stormwater management. Applications : Driveways, pedestrian plazas, resort courtyards, and historic restorations.",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "34.97"
+        }
+      ]
+    },
+    {
+      "id": 3259,
+      "name": "Bold Double Roman Brown",
+      "slug": "bold-double-roman-brown",
+      "source": "https://www.zimtile.co.zw/product/bold-double-roman-brown/",
+      "sku": "SM010601005",
+      "categories": [
+        {
+          "id": 44,
+          "name": "Concrete Roof Tiles",
+          "slug": "concrete-roof-tiles"
+        }
+      ],
+      "images": [
+        "/assets/zimtiles-7-of-262-Copy-e1759748155421.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "id": 3256,
+      "name": "Bold Double Roman Red 110",
+      "slug": "bold-double-roman-red-110",
+      "source": "https://www.zimtile.co.zw/product/bold-double-roman-red-110/",
+      "sku": "SM010601002",
+      "categories": [
+        {
+          "id": 44,
+          "name": "Concrete Roof Tiles",
+          "slug": "concrete-roof-tiles"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010601002.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "id": 3252,
+      "name": "Bold Double Roman Red 130",
+      "slug": "bold-double-roman-red-130",
+      "source": "https://www.zimtile.co.zw/product/bold-double-roman-red-130/",
+      "sku": "SM010601003",
+      "categories": [
+        {
+          "id": 44,
+          "name": "Concrete Roof Tiles",
+          "slug": "concrete-roof-tiles"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010601003.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "id": 3249,
+      "name": "Tuscan Black 330",
+      "slug": "tuscan-black-330",
+      "source": "https://www.zimtile.co.zw/product/tuscan-black-330/",
+      "sku": "SM010601014",
+      "categories": [
+        {
+          "id": 44,
+          "name": "Concrete Roof Tiles",
+          "slug": "concrete-roof-tiles"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010601014.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "id": 3243,
+      "name": "Tuscan Brown",
+      "slug": "tuscan-brown",
+      "source": "https://www.zimtile.co.zw/product/tuscan-brown/",
+      "sku": "SM010601010",
+      "categories": [
+        {
+          "id": 44,
+          "name": "Concrete Roof Tiles",
+          "slug": "concrete-roof-tiles"
+        }
+      ],
+      "images": [
+        "/assets/zimtiles-71-of-262-Copy.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "id": 3239,
+      "name": "Tuscan Red 130",
+      "slug": "tuscan-red-130",
+      "source": "https://www.zimtile.co.zw/product/tuscan-red-130/",
+      "sku": "SM010601012",
+      "categories": [
+        {
+          "id": 44,
+          "name": "Concrete Roof Tiles",
+          "slug": "concrete-roof-tiles"
+        }
+      ],
+      "images": [
+        "/assets/prod-SM010601012.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "id": 3421,
+      "name": "BRICK QUARRY 3 HOLES 225M",
+      "slug": "brick-quarry-3-holes-225m",
+      "source": "https://www.zimtile.co.zw/product/brick-quarry-3-holes-225m/",
+      "sku": "SM010603040",
+      "categories": [
+        {
+          "id": 47,
+          "name": "Bricks and Blocks",
+          "slug": "bricks-and-blocks",
+          "link": "https://www.zimtile.co.zw/product-category/bricks-and-blocks/"
+        },
+        {
+          "id": 47,
+          "name": "Bricks and Blocks",
+          "slug": "bricks-and-blocks"
+        }
+      ],
+      "images": [
+        "/assets/3-hole-concrete-bricks-products-img-1.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "Material",
+          "value": "High-density concrete"
+        },
+        {
+          "name": "Water Absorption",
+          "value": "≤6%"
+        },
+        {
+          "name": "Coverage",
+          "value": "50 units/m² (single-brick wall)"
+        }
+      ]
+    },
+    {
+      "id": 1650,
+      "name": "Bold double roman plain",
+      "slug": "bold-double-roman-plain",
+      "source": "https://www.zimtile.co.zw/product/bold-double-roman-plain/",
+      "sku": "SM010601006",
+      "categories": [
+        {
+          "id": 44,
+          "name": "Concrete Roof Tiles",
+          "slug": "concrete-roof-tiles"
+        }
+      ],
+      "images": [
+        "/assets/zimtiles-20-of-262-Copy-e1759748357578.webp"
+      ],
+      "details": "",
+      "attributes": [
+        {
+          "name": "QTY/SQ M",
+          "value": "12"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 47,
+      "name": "Bricks and Blocks",
+      "slug": "bricks-and-blocks"
+    },
+    {
+      "id": 45,
+      "name": "Concrete Ridges",
+      "slug": "concrete-ridges"
+    },
+    {
+      "id": 44,
+      "name": "Concrete Roof Tiles",
+      "slug": "concrete-roof-tiles"
+    },
+    {
+      "id": 51,
+      "name": "Domestic Pavers and Precast",
+      "slug": "domestic-pavers-and-precast"
+    },
+    {
+      "id": 50,
+      "name": "Dry Mix",
+      "slug": "dry-mix"
+    },
+    {
+      "id": 46,
+      "name": "Industrial Pavers and Precast",
+      "slug": "industrial-pavers-and-precast"
+    },
+    {
+      "id": 52,
+      "name": "Other Accessories",
+      "slug": "other-accessories"
+    },
+    {
+      "id": 120,
+      "name": "Wet Mix Cobble",
+      "slug": "wet-mix-cobble"
+    },
+    {
+      "id": 124,
+      "name": "Wet Mix Others",
+      "slug": "wet-mix-others"
+    },
+    {
+      "id": 121,
+      "name": "Wet Mix Paver",
+      "slug": "wet-mix-paver"
+    },
+    {
+      "id": 123,
+      "name": "Wet Mix Paving Slabs",
+      "slug": "wet-mix-paving-slabs"
+    },
+    {
+      "id": 122,
+      "name": "Wet Mix Paving Tiles",
+      "slug": "wet-mix-paving-tiles"
+    }
+  ],
+  "content": [
+    {
+      "id": 6753,
+      "title": "Upgrade Your Roof with Zimtile Concrete Tiles",
+      "slug": "upgrade-your-roof-with-zimtile-concrete-tiles",
+      "date": "2026-03-05",
+      "source": "https://www.zimtile.co.zw/upgrade-your-roof-with-zimtile-concrete-tiles/",
+      "type": "news",
+      "text": "Zimtile’s concrete roofing tiles are durable, affordable, high quality tiles, also low maintenance and energy efficient giving your home a roof that lasts longer, stays cooler, and looks great. Why It’s Better Than Other Common Roofs ✔ Superior Durability Concrete tiles are built to withstand harsh weather conditions, offering long term protection compared to many common roofing options. ✔ Long Lifespan With proper installation and minimal maintenance, concrete roofing tiles can last for decades, making them a smart long-term investment. ✔ Enhanced Aesthetic Appeal Available in various profiles (Bold Double Roman Tile and the Tuscan Tile) and colors (red, black, brown, amber and plain) concrete tiles give homes a premium look and it is the best solution for any project Invest in quality. Invest in Zimtile.",
+      "image": "",
+      "gallery": [
+        "/assets/webpost-picture-1-300x169.webp"
+      ]
+    },
+    {
+      "id": 3621,
+      "title": "Shopping Mall",
+      "slug": "shopping-mall",
+      "date": "2025-07-15",
+      "source": "https://www.zimtile.co.zw/shopping-mall/",
+      "type": "project",
+      "text": "Project Overview Pavers supplied by Zimtile.",
+      "image": "/assets/WhatsApp-Image-2025-10-09-at-9.41.14-AM-e1760009656724.webp",
+      "gallery": []
+    },
+    {
+      "id": 3618,
+      "title": "Church Project 2 – Harare",
+      "slug": "church-project-2-harare",
+      "date": "2025-07-15",
+      "source": "https://www.zimtile.co.zw/church-project-2-harare/",
+      "type": "project",
+      "text": "Project Overview This housing project was in Harare. Zimtile supplied all the pavers.",
+      "image": "/assets/Proj-church-proj-2.webp",
+      "gallery": []
+    },
+    {
+      "id": 3612,
+      "title": "Church Project – Harare",
+      "slug": "church-project-harare",
+      "date": "2025-07-15",
+      "source": "https://www.zimtile.co.zw/church-project-harare/",
+      "type": "project",
+      "text": "Project Overview The project had 18 housing units. All the tiles were supplied by Zimtile .",
+      "image": "/assets/Proj-church-proj-1.webp",
+      "gallery": []
+    },
+    {
+      "id": 3607,
+      "title": "Supermarket Project – Harare",
+      "slug": "supermarket-project-harare",
+      "date": "2024-07-15",
+      "source": "https://www.zimtile.co.zw/supermarket-project-harare/",
+      "type": "project",
+      "text": "Project Overview This project in Gweru was done in 2024. Zimtile supplied the 80mm industrial pavers.",
+      "image": "/assets/Proj-Supermarket_Hre.webp",
+      "gallery": []
+    },
+    {
+      "id": 3615,
+      "title": "Service Station Pavement Upgrade",
+      "slug": "service-station-pavement-upgrade",
+      "date": "2024-03-15",
+      "source": "https://www.zimtile.co.zw/service-station-pavement-upgrade/",
+      "type": "project",
+      "text": "Project Overview All the Pavers were supplied by Zimtile. The project was completed in March 2024",
+      "image": "/assets/WhatsApp-Image-2025-10-09-at-9.35.20-AM.webp",
+      "gallery": []
+    }
+  ],
+  "information": [
+    {
+      "slug": "terms-and-conditions",
+      "title": "Terms and Conditions",
+      "source": "https://www.zimtile.co.zw/terms-and-conditions/",
+      "text": "Terms and Conditions Last updated: August 20, 2025 Please read these terms and conditions carefully before using Our Service. Interpretation and Definitions Interpretation The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural. Definitions For the purposes of these Terms and Conditions: Affiliate means an entity that controls, is controlled by or is under common control with a party, where &quot;control&quot; means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority. Country refers to: Zimbabwe Company (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Zimtile, Cnr Glen Eagles / J.Martin Rd, Lochinvar, Harare. Device means any device that can access the Service such as a computer, a cellphone or a digital tablet. Service refers to the Website. Terms and Conditions (also referred as &quot;Terms&quot;) mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. Third-party Social Media Service means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service. Website refers to Zimtile, accessible from https://www.zimtile.co.zw You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable. Acknowledgment These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service. Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service. By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service. You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service. Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service. Links to Other Websites Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company. The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services. We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit. Termination We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions. Upon termination, Your right to use the Service will cease immediately. Limitation of Liability Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven’t purchased anything through the Service. To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose. Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party’s liability will be limited to the greatest extent permitted by law. &quot;AS IS&quot; and &quot;AS AVAILABLE&quot; Disclaimer The Service is provided to You &quot;AS IS&quot; and &quot;AS AVAILABLE&quot; and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected. Without limiting the foregoing, neither the Company nor any of the company’s provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components. Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law. Governing Law The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws. Disputes Resolution If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company. For European Union (EU) Users If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which You are resident. United States Legal Compliance You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a &quot;terrorist supporting&quot; country, and (ii) You are not listed on any United States government list of prohibited or restricted parties. Severability and Waiver Severability If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect. Waiver Except as provided herein, the failure to exercise a right or to require performance of an obligation under these Terms shall not affect a party’s ability to exercise such right or require such performance at any time thereafter nor shall the waiver of a breach constitute a waiver of any subsequent breach. Translation Interpretation These Terms and Conditions may have been translated if We have made them available to You on our Service. You agree that the original English text shall prevail in the case of a dispute. Changes to These Terms and Conditions We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days’ notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion. By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service. Contact Us If you have any questions about these Terms and Conditions, You can contact us: By visiting this page on our website: https://www.zimtile.co.zw",
+      "images": []
+    },
+    {
+      "slug": "export-service",
+      "title": "Export Service",
+      "source": "https://www.zimtile.co.zw/about-us/export-service/",
+      "text": "Home About our export services Zimtile has successfully entered the regional markets which include Zambia, Mozambique and Botswana. This strategy is implemented through direct sales efforts and participation at regional trade shows. Our export services include: 1. Facilitation of export documentation 2. Recommendation of reliable transporters 3. Free quotations",
+      "images": [
+        "/assets/Exports.webp"
+      ]
+    },
+    {
+      "slug": "our-values-culture",
+      "title": "Our Values & Culture",
+      "source": "https://www.zimtile.co.zw/our-values-culture/",
+      "text": "Our Core Values: Zimtile’s Promise to Stakeholders Since 1957, Zimtile’s values have served as our core guiding principles. They define who we are and who we aspire to be, fundamentally informing our decisions, behaviours, and ways of working throughout the organisation. People make a difference Help customers succeed We are a trusted partner We deliver on our commitments Zimtile people make a difference Our team is our strength. We are driven by motivation, professionalism, and passion — and we take pride in bringing our best selves to every project, every day. Zimtile helps customers succeed We don’t just sell products; we provide reliable solutions. Our quality offerings and value-added services empower our clients to build better, faster, and more affordably. Zimtile is a trusted partner We believe in building lasting partnerships based on trust, integrity, and mutual respect. Our customer-first approach ensures enduring, successful relationships. Zimtile delivers on its commitments We do what we say. We meet deadlines, we honor quality, and we consistently exceed expectations — because keeping our promises is our brand guarantee. Zimtile's Culture Ownership / Pride in one’s work Discipline of the highest standard Adhering to reporting deadlines (including accuracy of work) Adhering to systems, controls and performance targets Adhering to working hour times High performance /target driven Housekeeping of the highest standard, In all the factories, yard, and offices Teamwork and respect for each other",
+      "images": []
+    },
+    {
+      "slug": "social-responsibility",
+      "title": "Social Responsibility",
+      "source": "https://www.zimtile.co.zw/social-responsibility/",
+      "text": ".calltoaction-button.d-button-medium.calltoaction-button-1 a:hover { box-shadow: 0 2px 0 !important; } \" class=\"calltoaction-button calltoaction-custom-js d-button-medium calltoaction-border-square calltoaction-align-center calltoaction-button-1\"> Community Empowerment Creating Opportunities Through Education and Sport 1. Education Support: Chiwarira Primary School, Nyanga: Zimtile sponsored school fees for 100 underprivileged learners, helping them continue their education and build brighter futures. Youth Sports Sponsorship – Harare Sports Club Rugby Team: As proud sponsors of Harare Sports Club Rugby, we invest in youth development, teamwork, and national pride through sport. “Zimtile’s support gave our learners hope. Many would have dropped out without this assistance.” – School Head, Chiwarira Primary School 2. Environmental Stewardship Responsible Manufacturing for a Cleaner Tomorrow Recycling Commitment: Over 90% of production waste at Zimtile is recycled or reused, minimizing our environmental footprint and promoting sustainable practices. Future Sustainability Goals: Zimtile is actively exploring: Eco-friendly packaging options Smarter water usage systems Greener production methods across all operations 3. Ethical Practices Building Trust Through Transparency and Local Impact Fair labor policies that exceed national standards 85% of raw materials sourced locally to support Zimbabwean suppliers Strong anti-corruption and transparency framework Supplier Code of Conduct enforced throughout the supply chain Regular internal reviews for ethical compliance 4. Future Commitment: Community Resilience & Humanitarian Support Planning to Support Zimbabwe in Times of Crisis Although not yet implemented, Zimtile is committed to expanding its CSR efforts to include humanitarian aid and disaster response. We are considering: Setting aside emergency roofing stock for disaster-affected communities Partnering with health and education institutions for infrastructure support Building a rapid response model to assist when crises strike",
+      "images": []
+    },
+    {
+      "slug": "privacy-policy",
+      "title": "Privacy Policy",
+      "source": "https://www.zimtile.co.zw/privacy-policy/",
+      "text": "Privacy Policy Last updated: August 20, 2025 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You. We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. Interpretation and Definitions Interpretation The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural. Definitions For the purposes of this Privacy Policy: Account means a unique account created for You to access our Service or parts of our Service. Affiliate means an entity that controls, is controlled by or is under common control with a party, where control means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority. Company (referred to as either the Company, We, Us or Our in this Agreement) refers to Zimtile, Cnr Glen Eagles / J.Martin Rd, Lochinvar, Harare. Cookies are small files that are placed on Your computer, mobile device or any other device by a website, containing the details of Your browsing history on that website among its many uses. Country refers to: Zimbabwe Device means any device that can access the Service such as a computer, a cellphone or a digital tablet. Personal Data is any information that relates to an identified or identifiable individual. Service refers to the Website. Service Provider means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used. Third-party Social Media Service refers to any website or any social network website through which a User can log in or create an account to use the Service. Usage Data refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit). Website refers to Zimtile, accessible from https://www.zimtile.co.zw You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable. Collecting and Using Your Personal Data Types of Data Collected Personal Data While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to: Email address First name and last name Phone number Address, State, Province, ZIP/Postal code, City Usage Data Usage Data Usage Data is collected automatically when using the Service. Usage Data may include information such as Your Device’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data. When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data. We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device. Information from Third-Party Social Media Services The Company allows You to create an account and log in to use the Service through the following Third-party Social Media Services: Google Facebook Instagram Twitter LinkedIn If You decide to register through or otherwise grant us access to a Third-Party Social Media Service, We may collect Personal data that is already associated with Your Third-Party Social Media Service’s account, such as Your name, Your email address, Your activities or Your contact list associated with that account. You may also have the option of sharing additional information with the Company through Your Third-Party Social Media Service’s account. If You choose to provide such information and Personal Data, during registration or otherwise, You are giving the Company permission to use, share, and store it in a manner consistent with this Privacy Policy. Tracking Technologies and Cookies We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service. The technologies We use may include: Cookies or Browser Cookies. A cookie is a small file placed on Your Device. You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service. Unless you have adjusted Your browser setting so that it will refuse Cookies, our Service may use Cookies. Web Beacons. Certain sections of our Service and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of a certain section and verifying system and server integrity). Cookies can be Persistent or Session Cookies. Persistent Cookies remain on Your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close Your web browser. We use both Session and Persistent Cookies for the purposes set out below: Necessary / Essential Cookies Type: Session Cookies Administered by: Us Purpose: These Cookies are essential to provide You with services available through the Website and to enable You to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that You have asked for cannot be provided, and We only use these Cookies to provide You with those services. Cookies Policy / Notice Acceptance Cookies Type: Persistent Cookies Administered by: Us Purpose: These Cookies identify if users have accepted the use of cookies on the Website. Functionality Cookies Type: Persistent Cookies Administered by: Us Purpose: These Cookies allow us to remember choices You make when You use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time You use the Website. For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy or the Cookies section of our Privacy Policy. Use of Your Personal Data The Company may use Personal Data for the following purposes: To provide and maintain our Service , including to monitor the usage of our Service. To manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user. For the performance of a contract: the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service. To contact You: To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application’s push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation. To provide You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information. To manage Your requests: To attend and manage Your requests to Us. For business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred. For other purposes : We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience. We may share Your personal information in the following situations: With Service Providers: We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You. For business transfers: We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company. With Affiliates: We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us. With business partners: We may share Your information with Our business partners to offer You certain products, services or promotions. With other users: when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside. If You interact with other users or register through a Third-Party Social Media Service, Your contacts on the Third-Party Social Media Service may see Your name, profile, pictures and description of Your activity. Similarly, other users will be able to view descriptions of Your activity, communicate with You and view Your profile. With Your consent : We may disclose Your personal information for any other purpose with Your consent. Retention of Your Personal Data The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies. The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods. Transfer of Your Personal Data Your information, including Personal Data, is processed at the Company’s operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction. Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer. The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information. Delete Your Personal Data You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You. Our Service may give You the ability to delete certain information about You from within the Service. You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us. Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so. Disclosure of Your Personal Data Business Transactions If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy. Law enforcement Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency). Other legal requirements The Company may disclose Your Personal Data in the good faith belief that such action is necessary to: Comply with a legal obligation Protect and defend the rights or property of the Company Prevent or investigate possible wrongdoing in connection with the Service Protect the personal safety of Users of the Service or the public Protect against legal liability Security of Your Personal Data The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security. Children’s Privacy Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers. If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent’s consent before We collect and use that information. Links to Other Websites Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party’s site. We strongly advise You to review the Privacy Policy of every site You visit. We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services. Changes to this Privacy Policy We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page. We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the Last updated date at the top of this Privacy Policy. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page. Contact Us If you have any questions about this Privacy Policy, You can contact us: By email: enquiries@zimtile.co.zw By visiting this page on our website: https://www.zimtile.co.zw/contact-zimtile/ By phone number: +263785744281",
+      "images": []
+    },
+    {
+      "slug": "about-us",
+      "title": "About Us",
+      "source": "https://www.zimtile.co.zw/about-us/",
+      "text": "Home .calltoaction-button.flat-button-large.calltoaction-button-2 a:hover { color:#E50011!important; background:#FBFBFB!important; border-color:#FBFBFB!important; } \" class=\"calltoaction-button calltoaction-custom-js flat-button-large calltoaction-border-round calltoaction-align-center calltoaction-button-2 animate-in\" data-anim-type=\"spin-reverse\" data-anim-delay=\"100\"> &quot; Zimtile - Zimbabwes leading manufacturer and distributor of quality concrete roof tiles, bricks, pavers and other ancillary products.&quot; Founded in 1957, Zimtile is Zimbabwe’s leading manufacturer and distributor of high-quality concrete Roofing Tiles, Pavers,Bricks, Blocks, and related building materials. For over six decades, we have been at the heart of Zimbabwe’s construction industry — building the homes, schools, businesses, and infrastructure that define our nation. Our legacy is built on a foundation of quality, reliability, and innovation. With every product we produce, we contribute not just to structures, but to communities and futures. We are proud to be the name behind thousands of successful projects across the country — from residential developments to major commercial and public works. At Zimtile, we believe in continuous improvement. Our materials are engineered to meet the unique climate and durability demands of Zimbabwe’s environment, while our team works tirelessly to ensure that every solution we provide adds value, strength, and longevity to your buildings. With a nationwide footprint of strategically located manufacturing plants and distribution branches, we guarantee consistent availability and fast delivery, wherever you are. We are more than a supplier — we are a trusted partner in progress. “We don’t just supply materials; we build the foundation of Zimbabwe’s future.” This is the promise that drives us every day — shaping the nation’s future, one brick, one tile at a time. Mission Statement Our mission is to lead the construction industry by manufacturing and distributing superior quality concrete roof tiles, bricks, pavers, and other complementary products that meet the evolving needs of our customers. We proudly serve both private and public sector clients — including individuals, property developers, construction companies, and government institutions — across Zimbabwe and the broader region. Our Vision To be the most trusted experts in the production and distribution of premium-quality, cost-effective concrete roof tiles and related building solutions .",
+      "images": [
+        "/assets/Zimtile-About.mp4",
+        "/assets/about-zimtile.webp"
+      ]
+    }
+  ],
+  "assets": {
+    "https://www.zimtile.co.zw/wp-content/uploads/zimtiles-81-of-262.jpg": "/assets/zimtiles-81-of-262.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/zimtiles-83-of-262.jpg": "/assets/zimtiles-83-of-262.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-Bold-Double-Roman-Brown.png": "/assets/prod-Bold-Double-Roman-Brown.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-SM010601009.png": "/assets/prod-SM010601009.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-Tuscan-Black.png": "/assets/prod-Tuscan-Black.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/zimtiles-2-of-262-Copy-e1759844161711.jpg": "/assets/zimtiles-2-of-262-Copy-e1759844161711.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-SM010601001.png": "/assets/prod-SM010601001.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-SM010602016.png": "/assets/prod-SM010602016.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/zimtiles-34-of-262-Copy.jpg": "/assets/zimtiles-34-of-262-Copy.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/1W5A1156.jpg": "/assets/1W5A1156.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-image-coming-soon.png": "/assets/prod-image-coming-soon.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/1W5A1134.jpg": "/assets/1W5A1134.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/1W5A1134-1.jpg": "/assets/1W5A1134-1.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-SM010602030.png": "/assets/prod-SM010602030.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/1W5A1150.jpg": "/assets/1W5A1150.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/zimtiles-49-of-262.jpg": "/assets/zimtiles-49-of-262.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/zimtiles-57-of-262.jpg": "/assets/zimtiles-57-of-262.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/zimtiles-28-of-262-e1759759127126.jpg": "/assets/zimtiles-28-of-262-e1759759127126.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-SM010602024.png": "/assets/prod-SM010602024.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/1W5A1143.jpg": "/assets/1W5A1143.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/kerbstone-1m.jpg": "/assets/kerbstone-1m.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/1W5A1326.jpg": "/assets/1W5A1326.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/WhatsApp-Image-2026-03-11-at-11.50.43-AM1.jpeg": "/assets/WhatsApp-Image-2026-03-11-at-11.50.43-AM1.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/scalop-300x300-1.jpg": "/assets/scalop-300x300-1.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/scallop-red.jpg": "/assets/scallop-red.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/scallop-black-2.jpeg": "/assets/scallop-black-2.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/WhatsApp-Image-2026-03-11-at-3.59.49-PM2.jpeg": "/assets/WhatsApp-Image-2026-03-11-at-3.59.49-PM2.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/images-black-paver.jpg": "/assets/images-black-paver.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/Zig-Zag-Concrete-Paver-red-scaled.jpg": "/assets/Zig-Zag-Concrete-Paver-red-scaled.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/Grey-Premium-Interlocking-Pavers-Used-To-Pave-an-Entrance-for-a-Complex.jpg": "/assets/Grey-Premium-Interlocking-Pavers-Used-To-Pave-an-Entrance-for-a-Complex.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/yellow-iron-oxide-natural-250x250-1.webp": "/assets/yellow-iron-oxide-natural-250x250-1.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/iron-oxide-amber-powder.jpeg": "/assets/iron-oxide-amber-powder.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/WhatsApp-Image-2025-10-09-at-2.18.20-PM.jpeg": "/assets/WhatsApp-Image-2025-10-09-at-2.18.20-PM.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/486062970_1063614195811339_1139186592080500854_n-frenchhh.jpg": "/assets/486062970_1063614195811339_1139186592080500854_n-frenchhh.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/smooth-paving-slab-grey-400.jpg": "/assets/smooth-paving-slab-grey-400.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/Proj-Supermarket_Hre.jpg": "/assets/Proj-Supermarket_Hre.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/zimtiles-184-of-262-6.jpg": "/assets/zimtiles-184-of-262-6.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/french-plain-400.jpg": "/assets/french-plain-400.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/french-sand-400.jpg": "/assets/french-sand-400.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/WhatsApp-Image-french.jpeg": "/assets/WhatsApp-Image-french.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/french-sand-400-1.jpg": "/assets/french-sand-400-1.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-SM010604099.png": "/assets/prod-SM010604099.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-SM010604097.png": "/assets/prod-SM010604097.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/im.jpg": "/assets/im.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/WhatsApp-Image-2026-03-13-at-12.18.19-PM1.jpeg": "/assets/WhatsApp-Image-2026-03-13-at-12.18.19-PM1.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/WhatsApp-Image-2026-03-11-at-4.07.04-PM.jpeg": "/assets/WhatsApp-Image-2026-03-11-at-4.07.04-PM.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/WhatsApp-Image-2026-03-13-at-12.18.19-PM1-1.jpeg": "/assets/WhatsApp-Image-2026-03-13-at-12.18.19-PM1-1.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-Trihex-Pavers-b.png": "/assets/prod-Trihex-Pavers-b.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-Trihex-Pavers-c.png": "/assets/prod-Trihex-Pavers-c.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/gras-paver.jpg": "/assets/gras-paver.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/WhatsApp-Image-2026-03-05-at-3.37.38-PM-1.jpeg": "/assets/WhatsApp-Image-2026-03-05-at-3.37.38-PM-1.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/big-arrow.jpg": "/assets/big-arrow.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/product-jpeg-500x500-1.webp": "/assets/product-jpeg-500x500-1.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/WhatsApp-Image-2026-03-06-at-12.14.44-PM.jpeg": "/assets/WhatsApp-Image-2026-03-06-at-12.14.44-PM.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/scallop-black-1.jpeg": "/assets/scallop-black-1.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/WhatsApp-Image-2026-03-03-at-4.52.51-PM.jpeg": "/assets/WhatsApp-Image-2026-03-03-at-4.52.51-PM.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/3d-diamond-black.webp": "/assets/3d-diamond-black.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/image.png": "/assets/image.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-cassablanca-pavers.png": "/assets/prod-cassablanca-pavers.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/casablanca-paver-60mm-2.png": "/assets/casablanca-paver-60mm-2.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/WhatsApp-Image-2026-03-13-at-12.20.45-PM.jpeg": "/assets/WhatsApp-Image-2026-03-13-at-12.20.45-PM.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/coble-100.jpg": "/assets/coble-100.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/DSC03626-scaled.jpg": "/assets/DSC03626-scaled.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-SM010604096.png": "/assets/prod-SM010604096.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-SM010604095.png": "/assets/prod-SM010604095.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/DSC03367-scaled.jpg": "/assets/DSC03367-scaled.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/coble-150.jpeg": "/assets/coble-150.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/coble-150-1.jpeg": "/assets/coble-150-1.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/WhatsApp-Image-2026-03-06-at-3.20.03-PM.jpeg": "/assets/WhatsApp-Image-2026-03-06-at-3.20.03-PM.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/cat-Concrete-Ridges.png": "/assets/cat-Concrete-Ridges.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-SM010602017.png": "/assets/prod-SM010602017.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-SM010602014.png": "/assets/prod-SM010602014.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/domestic-kerb.jpg": "/assets/domestic-kerb.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/product-jpeg-500x500-breeze-block.webp": "/assets/product-jpeg-500x500-breeze-block.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-Square-Design-Breeze-Blocks-b.png": "/assets/prod-Square-Design-Breeze-Blocks-b.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/8x8x16-Concrete-Block-Grey-1.jpg": "/assets/8x8x16-Concrete-Block-Grey-1.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-SM010603041.png": "/assets/prod-SM010603041.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/WhatsApp-Image-2026-03-11-at-11.50.45-AM.jpeg": "/assets/WhatsApp-Image-2026-03-11-at-11.50.45-AM.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/red-holland.jpg": "/assets/red-holland.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/60mm-holland.jpeg": "/assets/60mm-holland.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/zimtiles-7-of-262-Copy-e1759748155421.jpg": "/assets/zimtiles-7-of-262-Copy-e1759748155421.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-SM010601002.png": "/assets/prod-SM010601002.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-SM010601003.png": "/assets/prod-SM010601003.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-SM010601014.png": "/assets/prod-SM010601014.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/zimtiles-71-of-262-Copy.jpg": "/assets/zimtiles-71-of-262-Copy.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/prod-SM010601012.png": "/assets/prod-SM010601012.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/3-hole-concrete-bricks-products-img-1.jpg": "/assets/3-hole-concrete-bricks-products-img-1.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/zimtiles-20-of-262-Copy-e1759748357578.jpg": "/assets/zimtiles-20-of-262-Copy-e1759748357578.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/webpost-picture-1-300x169.jpeg": "/assets/webpost-picture-1-300x169.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/WhatsApp-Image-2025-10-09-at-9.41.14-AM-e1760009656724.jpeg": "/assets/WhatsApp-Image-2025-10-09-at-9.41.14-AM-e1760009656724.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/Proj-church-proj-2.jpg": "/assets/Proj-church-proj-2.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/Proj-church-proj-1.jpg": "/assets/Proj-church-proj-1.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/WhatsApp-Image-2025-10-09-at-9.35.20-AM.jpeg": "/assets/WhatsApp-Image-2025-10-09-at-9.35.20-AM.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/Exports.jpg": "/assets/Exports.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/Zimtile-About.mp4": "/assets/Zimtile-About.mp4",
+    "https://www.zimtile.co.zw/wp-content/uploads/about-zimtile.jpg": "/assets/about-zimtile.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/Slide-One.jpg": "/assets/Slide-One.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/main-subheader-1.jpg": "/assets/main-subheader-1.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/Slide-Two.jpg": "/assets/Slide-Two.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/Slide-Three.jpg": "/assets/Slide-Three.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/ZIMTILE-ISO9001.png": "/assets/ZIMTILE-ISO9001.webp",
+    "https://www.zimtile.co.zw/wp-content/uploads/zimtile-logo-white.png": "/assets/zimtile-logo-white.png",
+    "https://www.zimtile.co.zw/wp-content/uploads/favicon-1-300x300.png": "/assets/favicon-1-300x300.png"
+  },
+  "media": {
+    "/assets/1W5A1134-1.webp": "/assets/1W5A1134-1.webp 450w",
+    "/assets/1W5A1134.webp": "/assets/1W5A1134.webp 450w",
+    "/assets/1W5A1143.webp": "/assets/1W5A1143.webp 450w",
+    "/assets/1W5A1150.webp": "/assets/1W5A1150.webp 450w",
+    "/assets/1W5A1156.webp": "/assets/1W5A1156.webp 450w",
+    "/assets/1W5A1326.webp": "/assets/1W5A1326.webp 450w",
+    "/assets/3-hole-concrete-bricks-products-img-1.webp": "/assets/3-hole-concrete-bricks-products-img-1-480.webp 480w, /assets/3-hole-concrete-bricks-products-img-1.webp 680w",
+    "/assets/486062970_1063614195811339_1139186592080500854_n-frenchhh.webp": "/assets/486062970_1063614195811339_1139186592080500854_n-frenchhh-480.webp 480w, /assets/486062970_1063614195811339_1139186592080500854_n-frenchhh.webp 768w",
+    "/assets/60mm-holland.webp": "/assets/60mm-holland-480.webp 480w, /assets/60mm-holland.webp 554w",
+    "/assets/8x8x16-Concrete-Block-Grey-1.webp": "/assets/8x8x16-Concrete-Block-Grey-1-480.webp 480w, /assets/8x8x16-Concrete-Block-Grey-1-960.webp 960w, /assets/8x8x16-Concrete-Block-Grey-1.webp 1000w",
+    "/assets/about-zimtile.webp": "/assets/about-zimtile-480.webp 480w, /assets/about-zimtile-960.webp 960w, /assets/about-zimtile.webp 1500w",
+    "/assets/big-arrow.webp": "/assets/big-arrow.webp 373w",
+    "/assets/casablanca-paver-60mm-2.webp": "/assets/casablanca-paver-60mm-2-480.webp 480w, /assets/casablanca-paver-60mm-2-960.webp 960w, /assets/casablanca-paver-60mm-2.webp 1089w",
+    "/assets/cat-Concrete-Ridges.webp": "/assets/cat-Concrete-Ridges.webp 450w",
+    "/assets/coble-100.webp": "/assets/coble-100.webp 194w",
+    "/assets/coble-150-1.webp": "/assets/coble-150-1.webp 371w",
+    "/assets/coble-150.webp": "/assets/coble-150.webp 371w",
+    "/assets/domestic-kerb.webp": "/assets/domestic-kerb-480.webp 480w, /assets/domestic-kerb.webp 512w",
+    "/assets/DSC03367-scaled.webp": "/assets/DSC03367-scaled-480.webp 480w, /assets/DSC03367-scaled-960.webp 960w, /assets/DSC03367-scaled.webp 1600w",
+    "/assets/DSC03626-scaled.webp": "/assets/DSC03626-scaled-480.webp 480w, /assets/DSC03626-scaled-960.webp 960w, /assets/DSC03626-scaled.webp 1600w",
+    "/assets/Exports.webp": "/assets/Exports-480.webp 480w, /assets/Exports-960.webp 960w, /assets/Exports.webp 1024w",
+    "/assets/french-plain-400.webp": "/assets/french-plain-400-480.webp 480w, /assets/french-plain-400.webp 700w",
+    "/assets/french-sand-400-1.webp": "/assets/french-sand-400-1.webp 378w",
+    "/assets/french-sand-400.webp": "/assets/french-sand-400.webp 378w",
+    "/assets/gras-paver.webp": "/assets/gras-paver.webp 275w",
+    "/assets/Grey-Premium-Interlocking-Pavers-Used-To-Pave-an-Entrance-for-a-Complex.webp": "/assets/Grey-Premium-Interlocking-Pavers-Used-To-Pave-an-Entrance-for-a-Complex-480.webp 480w, /assets/Grey-Premium-Interlocking-Pavers-Used-To-Pave-an-Entrance-for-a-Complex-960.webp 960w, /assets/Grey-Premium-Interlocking-Pavers-Used-To-Pave-an-Entrance-for-a-Complex.webp 1000w",
+    "/assets/im.webp": "/assets/im.webp 225w",
+    "/assets/image.webp": "/assets/image-480.webp 480w, /assets/image.webp 499w",
+    "/assets/images-black-paver.webp": "/assets/images-black-paver.webp 225w",
+    "/assets/iron-oxide-amber-powder.webp": "/assets/iron-oxide-amber-powder-480.webp 480w, /assets/iron-oxide-amber-powder-960.webp 960w, /assets/iron-oxide-amber-powder.webp 1000w",
+    "/assets/kerbstone-1m.webp": "/assets/kerbstone-1m.webp 241w",
+    "/assets/main-subheader-1.webp": "/assets/main-subheader-1-480.webp 480w, /assets/main-subheader-1-960.webp 960w, /assets/main-subheader-1.webp 1600w",
+    "/assets/prod-Bold-Double-Roman-Brown.webp": "/assets/prod-Bold-Double-Roman-Brown.webp 450w",
+    "/assets/prod-cassablanca-pavers.webp": "/assets/prod-cassablanca-pavers.webp 450w",
+    "/assets/prod-image-coming-soon.webp": "/assets/prod-image-coming-soon.webp 450w",
+    "/assets/prod-SM010601001.webp": "/assets/prod-SM010601001.webp 450w",
+    "/assets/prod-SM010601002.webp": "/assets/prod-SM010601002.webp 450w",
+    "/assets/prod-SM010601003.webp": "/assets/prod-SM010601003.webp 450w",
+    "/assets/prod-SM010601009.webp": "/assets/prod-SM010601009.webp 450w",
+    "/assets/prod-SM010601012.webp": "/assets/prod-SM010601012.webp 450w",
+    "/assets/prod-SM010601014.webp": "/assets/prod-SM010601014.webp 450w",
+    "/assets/prod-SM010602014.webp": "/assets/prod-SM010602014.webp 450w",
+    "/assets/prod-SM010602016.webp": "/assets/prod-SM010602016.webp 450w",
+    "/assets/prod-SM010602017.webp": "/assets/prod-SM010602017.webp 450w",
+    "/assets/prod-SM010602024.webp": "/assets/prod-SM010602024.webp 450w",
+    "/assets/prod-SM010602030.webp": "/assets/prod-SM010602030.webp 450w",
+    "/assets/prod-SM010603041.webp": "/assets/prod-SM010603041.webp 450w",
+    "/assets/prod-SM010604095.webp": "/assets/prod-SM010604095.webp 450w",
+    "/assets/prod-SM010604096.webp": "/assets/prod-SM010604096.webp 450w",
+    "/assets/prod-SM010604097.webp": "/assets/prod-SM010604097.webp 450w",
+    "/assets/prod-SM010604099.webp": "/assets/prod-SM010604099.webp 450w",
+    "/assets/prod-Square-Design-Breeze-Blocks-b.webp": "/assets/prod-Square-Design-Breeze-Blocks-b-480.webp 480w, /assets/prod-Square-Design-Breeze-Blocks-b.webp 586w",
+    "/assets/prod-Trihex-Pavers-b.webp": "/assets/prod-Trihex-Pavers-b.webp 450w",
+    "/assets/prod-Trihex-Pavers-c.webp": "/assets/prod-Trihex-Pavers-c.webp 450w",
+    "/assets/prod-Tuscan-Black.webp": "/assets/prod-Tuscan-Black.webp 450w",
+    "/assets/Proj-church-proj-1.webp": "/assets/Proj-church-proj-1-480.webp 480w, /assets/Proj-church-proj-1.webp 800w",
+    "/assets/Proj-church-proj-2.webp": "/assets/Proj-church-proj-2-480.webp 480w, /assets/Proj-church-proj-2.webp 800w",
+    "/assets/Proj-Supermarket_Hre.webp": "/assets/Proj-Supermarket_Hre-480.webp 480w, /assets/Proj-Supermarket_Hre.webp 800w",
+    "/assets/red-holland.webp": "/assets/red-holland-480.webp 480w, /assets/red-holland.webp 736w",
+    "/assets/scallop-black-1.webp": "/assets/scallop-black-1-480.webp 480w, /assets/scallop-black-1-960.webp 960w, /assets/scallop-black-1.webp 1186w",
+    "/assets/scallop-black-2.webp": "/assets/scallop-black-2-480.webp 480w, /assets/scallop-black-2-960.webp 960w, /assets/scallop-black-2.webp 1186w",
+    "/assets/scallop-red.webp": "/assets/scallop-red.webp 225w",
+    "/assets/scalop-300x300-1.webp": "/assets/scalop-300x300-1.webp 300w",
+    "/assets/Slide-One.webp": "/assets/Slide-One-480.webp 480w, /assets/Slide-One-960.webp 960w, /assets/Slide-One.webp 1600w",
+    "/assets/Slide-Three.webp": "/assets/Slide-Three-480.webp 480w, /assets/Slide-Three-960.webp 960w, /assets/Slide-Three.webp 1600w",
+    "/assets/Slide-Two.webp": "/assets/Slide-Two-480.webp 480w, /assets/Slide-Two-960.webp 960w, /assets/Slide-Two.webp 1600w",
+    "/assets/smooth-paving-slab-grey-400.webp": "/assets/smooth-paving-slab-grey-400.webp 225w",
+    "/assets/webpost-picture-1-300x169.webp": "/assets/webpost-picture-1-300x169.webp 300w",
+    "/assets/WhatsApp-Image-2025-10-09-at-2.18.20-PM.webp": "/assets/WhatsApp-Image-2025-10-09-at-2.18.20-PM-480.webp 480w, /assets/WhatsApp-Image-2025-10-09-at-2.18.20-PM.webp 500w",
+    "/assets/WhatsApp-Image-2025-10-09-at-9.35.20-AM.webp": "/assets/WhatsApp-Image-2025-10-09-at-9.35.20-AM-480.webp 480w, /assets/WhatsApp-Image-2025-10-09-at-9.35.20-AM.webp 810w",
+    "/assets/WhatsApp-Image-2025-10-09-at-9.41.14-AM-e1760009656724.webp": "/assets/WhatsApp-Image-2025-10-09-at-9.41.14-AM-e1760009656724-480.webp 480w, /assets/WhatsApp-Image-2025-10-09-at-9.41.14-AM-e1760009656724.webp 865w",
+    "/assets/WhatsApp-Image-2026-03-03-at-4.52.51-PM.webp": "/assets/WhatsApp-Image-2026-03-03-at-4.52.51-PM-480.webp 480w, /assets/WhatsApp-Image-2026-03-03-at-4.52.51-PM-960.webp 960w, /assets/WhatsApp-Image-2026-03-03-at-4.52.51-PM.webp 1080w",
+    "/assets/WhatsApp-Image-2026-03-05-at-3.37.38-PM-1.webp": "/assets/WhatsApp-Image-2026-03-05-at-3.37.38-PM-1-480.webp 480w, /assets/WhatsApp-Image-2026-03-05-at-3.37.38-PM-1.webp 736w",
+    "/assets/WhatsApp-Image-2026-03-06-at-12.14.44-PM.webp": "/assets/WhatsApp-Image-2026-03-06-at-12.14.44-PM-480.webp 480w, /assets/WhatsApp-Image-2026-03-06-at-12.14.44-PM.webp 571w",
+    "/assets/WhatsApp-Image-2026-03-06-at-3.20.03-PM.webp": "/assets/WhatsApp-Image-2026-03-06-at-3.20.03-PM-480.webp 480w, /assets/WhatsApp-Image-2026-03-06-at-3.20.03-PM.webp 736w",
+    "/assets/WhatsApp-Image-2026-03-11-at-11.50.43-AM1.webp": "/assets/WhatsApp-Image-2026-03-11-at-11.50.43-AM1-480.webp 480w, /assets/WhatsApp-Image-2026-03-11-at-11.50.43-AM1.webp 736w",
+    "/assets/WhatsApp-Image-2026-03-11-at-11.50.45-AM.webp": "/assets/WhatsApp-Image-2026-03-11-at-11.50.45-AM-480.webp 480w, /assets/WhatsApp-Image-2026-03-11-at-11.50.45-AM.webp 736w",
+    "/assets/WhatsApp-Image-2026-03-11-at-3.59.49-PM2.webp": "/assets/WhatsApp-Image-2026-03-11-at-3.59.49-PM2-480.webp 480w, /assets/WhatsApp-Image-2026-03-11-at-3.59.49-PM2.webp 958w",
+    "/assets/WhatsApp-Image-2026-03-11-at-4.07.04-PM.webp": "/assets/WhatsApp-Image-2026-03-11-at-4.07.04-PM-480.webp 480w, /assets/WhatsApp-Image-2026-03-11-at-4.07.04-PM.webp 736w",
+    "/assets/WhatsApp-Image-2026-03-13-at-12.18.19-PM1-1.webp": "/assets/WhatsApp-Image-2026-03-13-at-12.18.19-PM1-1-480.webp 480w, /assets/WhatsApp-Image-2026-03-13-at-12.18.19-PM1-1.webp 770w",
+    "/assets/WhatsApp-Image-2026-03-13-at-12.18.19-PM1.webp": "/assets/WhatsApp-Image-2026-03-13-at-12.18.19-PM1-480.webp 480w, /assets/WhatsApp-Image-2026-03-13-at-12.18.19-PM1.webp 770w",
+    "/assets/WhatsApp-Image-2026-03-13-at-12.20.45-PM.webp": "/assets/WhatsApp-Image-2026-03-13-at-12.20.45-PM-480.webp 480w, /assets/WhatsApp-Image-2026-03-13-at-12.20.45-PM.webp 857w",
+    "/assets/WhatsApp-Image-french.webp": "/assets/WhatsApp-Image-french-480.webp 480w, /assets/WhatsApp-Image-french.webp 541w",
+    "/assets/Zig-Zag-Concrete-Paver-red-scaled.webp": "/assets/Zig-Zag-Concrete-Paver-red-scaled-480.webp 480w, /assets/Zig-Zag-Concrete-Paver-red-scaled-960.webp 960w, /assets/Zig-Zag-Concrete-Paver-red-scaled.webp 1600w",
+    "/assets/ZIMTILE-ISO9001.webp": "/assets/ZIMTILE-ISO9001-480.webp 480w, /assets/ZIMTILE-ISO9001-960.webp 960w, /assets/ZIMTILE-ISO9001.webp 1024w",
+    "/assets/zimtiles-184-of-262-6.webp": "/assets/zimtiles-184-of-262-6.webp 450w",
+    "/assets/zimtiles-2-of-262-Copy-e1759844161711.webp": "/assets/zimtiles-2-of-262-Copy-e1759844161711.webp 450w",
+    "/assets/zimtiles-20-of-262-Copy-e1759748357578.webp": "/assets/zimtiles-20-of-262-Copy-e1759748357578.webp 411w",
+    "/assets/zimtiles-28-of-262-e1759759127126.webp": "/assets/zimtiles-28-of-262-e1759759127126.webp 380w",
+    "/assets/zimtiles-34-of-262-Copy.webp": "/assets/zimtiles-34-of-262-Copy.webp 414w",
+    "/assets/zimtiles-49-of-262.webp": "/assets/zimtiles-49-of-262.webp 450w",
+    "/assets/zimtiles-57-of-262.webp": "/assets/zimtiles-57-of-262.webp 364w",
+    "/assets/zimtiles-7-of-262-Copy-e1759748155421.webp": "/assets/zimtiles-7-of-262-Copy-e1759748155421.webp 426w",
+    "/assets/zimtiles-71-of-262-Copy.webp": "/assets/zimtiles-71-of-262-Copy.webp 450w",
+    "/assets/zimtiles-81-of-262.webp": "/assets/zimtiles-81-of-262.webp 450w",
+    "/assets/zimtiles-83-of-262.webp": "/assets/zimtiles-83-of-262.webp 450w"
+  }
+}
