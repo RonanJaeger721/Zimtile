@@ -46,6 +46,7 @@ export default function MaterialJourney({ navigate }) {
   return (
     <section
       ref={root}
+      id="material-journey"
       className={`material-journey ${assembled ? "force-assembled" : ""}`}
     >
       <div className="journey-sticky">

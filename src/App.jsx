@@ -124,7 +124,10 @@ export function metadata(path) {
       : story
         ? story.text.slice(0, 155)
         : "Roofing, paving, bricks, blocks and concrete building solutions. Discover Zimtile products, projects and branches across Zimbabwe.",
-    image: p?.images[0] || story?.image || groups[1].image,
+    image:
+      p?.images[0] ||
+      story?.image ||
+      (path === "/" ? "/assets/zimtile-hero-poster.webp" : groups[1].image),
   };
 }
 function Link({ to, children, ...rest }) {
@@ -273,7 +276,7 @@ function Header() {
   return (
     <>
       <header
-        className={`header ${scrolled ? "scrolled" : ""} ${hidden && !menu && !mega ? "hidden" : ""}`}
+        className={`header ${c.path === "/" ? "editorial-header" : ""} ${scrolled ? "scrolled" : ""} ${hidden && !menu && !mega ? "hidden" : ""}`}
       >
         <Link to="/" className="logo">
           <Image src="/assets/zimtile-logo-white.png" alt="Zimtile" eager />
@@ -484,118 +487,150 @@ function Footer() {
   );
 }
 function Hero() {
-  const heroRef = useRef();
-  const [selected, setSelected] = useState(1);
-  let g = groups[selected];
-  const sample = products.find(
-    (p) => has(p, g.cat) && !p.images[0]?.includes("coming-soon"),
-  );
+  const [active, setActive] = useState(0),
+    [paused, setPaused] = useState(false),
+    [playFilm, setPlayFilm] = useState(false);
+  const hero = useRef();
+  const film = useRef();
+  const scenes = [
+    {
+      image: "/assets/zimtile-hero-poster.webp",
+      label: "ZIMTILE / BUILT INTO ZIMBABWE",
+      position: "50% 42%",
+    },
+    {
+      image: "/assets/WhatsApp-Image-2026-03-11-at-4.07.04-PM.webp",
+      label: "FROM ROOFLINE TO GROUNDWORK",
+      position: "52% 32%",
+    },
+    {
+      image: "/assets/WhatsApp-Image-2026-03-11-at-3.59.49-PM2.webp",
+      label: "CONCRETE / PATTERN / POSSIBILITIES",
+      position: "50% 45%",
+    },
+  ];
+  useEffect(() => {
+    const motion = window.matchMedia("(prefers-reduced-motion: reduce)");
+    const size = window.matchMedia("(min-width: 641px)");
+    const update = () =>
+      setPlayFilm(
+        !motion.matches && size.matches && !navigator.connection?.saveData,
+      );
+    update();
+    motion.addEventListener("change", update);
+    size.addEventListener("change", update);
+    return () => {
+      motion.removeEventListener("change", update);
+      size.removeEventListener("change", update);
+    };
+  }, []);
+  useEffect(() => {
+    if (!playFilm || !film.current) return;
+    let inView = true;
+    const sync = () => {
+      if (active === 0 && !paused && !document.hidden && inView) {
+        film.current.play().catch(() => {});
+      } else film.current.pause();
+    };
+    const observer = new IntersectionObserver((entries) => {
+      inView = entries[0].isIntersecting;
+      sync();
+    });
+    observer.observe(hero.current);
+    document.addEventListener("visibilitychange", sync);
+    sync();
+    return () => {
+      observer.disconnect();
+      document.removeEventListener("visibilitychange", sync);
+      film.current?.pause();
+    };
+  }, [active, paused, playFilm]);
+  useEffect(() => {
+    const reduced = window.matchMedia("(prefers-reduced-motion: reduce)");
+    if (paused || reduced.matches) return;
+    const timer = setInterval(() => {
+      if (!document.hidden && hero.current.getBoundingClientRect().bottom > 0)
+        setActive((i) => (i + 1) % scenes.length);
+    }, 11000);
+    return () => clearInterval(timer);
+  }, [paused]);
   return (
     <section
-      ref={heroRef}
-      className="hero cinematic-hero"
-      onPointerMove={(e) => {
-        if (
-          e.pointerType !== "mouse" ||
-          window.matchMedia("(prefers-reduced-motion: reduce)").matches
-        )
-          return;
-        const r = heroRef.current.getBoundingClientRect();
-        heroRef.current.style.setProperty(
-          "--pointer-x",
-          (e.clientX - r.left) / r.width - 0.5,
-        );
-        heroRef.current.style.setProperty(
-          "--pointer-y",
-          (e.clientY - r.top) / r.height - 0.5,
-        );
-      }}
+      className="editorial-hero"
+      ref={hero}
+      aria-label="Materials that shape Zimbabwe"
     >
-      <div className="hero-copy">
-        <Eyebrow>Building Zimbabwe since 1957</Eyebrow>
+      <div className="editorial-hero-media" aria-hidden="true">
+        {scenes.map((scene, i) => (
+          <Image
+            src={scene.image}
+            key={scene.image}
+            alt=""
+            className={i === active ? "active" : ""}
+            eager={i === 0}
+            sizes="(max-width: 640px) 180svh, 100vw"
+            style={{ objectPosition: scene.position }}
+          />
+        ))}
+        <video
+          ref={film}
+          className={active === 0 && playFilm ? "active" : ""}
+          src={playFilm ? "/assets/zimtile-hero-film.mp4" : undefined}
+          poster="/assets/zimtile-hero-poster.webp"
+          muted
+          playsInline
+          loop
+          preload="none"
+          tabIndex={-1}
+        />
+      </div>
+      <div className="editorial-hero-content">
+        <Eyebrow>ZIMTILE / SINCE 1957</Eyebrow>
         <h1>
-          Built into
-          <br /> Zimbabwe.
-          <br />{" "}
-          <span>
-            Made for
-            <br /> generations.
-          </span>
+          Materials that
+          <br /> shape Zimbabwe.
         </h1>
         <p>
-          From the roofline to the groundwork.
-          <br /> Concrete materials for the places
-          <br className="desktop-break" /> we call home, work and tomorrow.
+          Concrete roof tiles, paving and building materials.
+          <br /> Made for the places that matter.
         </p>
-        <div className="hero-ctas">
-          <Button to="/products">Explore products</Button>
-          <Link className="text-link" to="/quote">
-            Let’s build <ArrowUpRight size={19} />
-          </Link>
-        </div>
-        <div className="hero-footnote">
-          <span className="tiny-cross">+</span>
-          <span>ROOFING · PAVING · BUILDING</span>
-          <span>01 — 03</span>
-        </div>
-      </div>
-      <div className={`hero-visual scene-${selected}`}>
-        <div className="hero-pictures">
-          {groups.map((x, i) => (
-            <Image
-              key={x.name}
-              src={x.image}
-              alt={`${x.name} imagery from Zimtile’s website`}
-              className={selected === i ? "selected" : ""}
-              eager={i === 1}
-            />
-          ))}
-        </div>
-        <div className="hero-frame" aria-hidden="true">
-          <span />
-          <span />
-          <span />
-          <span />
-        </div>
-        <Link className="hero-material-sample" to={"/products/" + sample.slug}>
-          <span className="label">MATERIAL IN FOCUS / 0{selected + 1}</span>
-          <ProductImage p={sample} />
-          <div>
-            <span>{pretty(sample.name)}</span>
-            <ArrowUpRight size={18} />
-          </div>
+        <Link to="/products" className="hero-explore">
+          Explore the materials <ArrowUpRight size={18} />
         </Link>
-        <div className="hero-image-caption">
-          <span>MATERIALS IN THE MAKING</span>
-          <span>ZW / 1957</span>
-        </div>
-        <div className="heritage-badge">
-          <span>TRUSTED SINCE</span>
-          <strong>1957</strong>
-          <span>BUILT TO LAST</span>
-        </div>
-        <div className="hero-selector">
-          <div>
-            <span>EXPLORE THE MATERIALS</span>
-            <span>0{selected + 1} / 03</span>
+      </div>
+      <div className="hero-origin">
+        MANUFACTURED IN ZIMBABWE.
+        <br /> BUILT FOR GENERATIONS.
+      </div>
+      <div className="hero-editorial-footer">
+        <a href="#material-journey" className="hero-scroll">
+          Scroll to discover <span />
+        </a>
+        <div className="hero-film-control">
+          <span className="scene-description">{scenes[active].label}</span>
+          <div className="hero-film-slides">
+            {scenes.map((scene, i) => (
+              <button
+                className={active === i ? "active" : ""}
+                key={i}
+                aria-label={"Show material scene " + (i + 1)}
+                aria-pressed={active === i}
+                onClick={() => {
+                  setActive(i);
+                  setPaused(true);
+                }}
+              >
+                <span />
+              </button>
+            ))}
           </div>
-          {groups.map((x, i) => (
-            <button
-              key={x.name}
-              className={selected === i ? "active" : ""}
-              onMouseEnter={() => setSelected(i)}
-              onFocus={() => setSelected(i)}
-              onClick={() => setSelected(i)}
-              aria-pressed={selected === i}
-            >
-              <span>0{i + 1}</span>
-              <strong>{x.name}</strong>
-              <ArrowUpRight size={20} />
-            </button>
-          ))}
-          <Link to={g.path} className="selector-link">
-            {g.label} Discover {g.name.toLowerCase()} <ArrowRight size={16} />
-          </Link>
+          <button
+            className="hero-pause"
+            onClick={() => setPaused(!paused)}
+            aria-label={paused ? "Play hero slideshow" : "Pause hero slideshow"}
+          >
+            {paused ? "PLAY" : "PAUSE"}
+          </button>
         </div>
       </div>
     </section>

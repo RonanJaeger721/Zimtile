@@ -26,7 +26,7 @@ This report covers local validation before release. Public deployment and redire
 
 ## Creative and map revision
 
-- Cinematic image-led hero with pointer-responsive depth, architectural framing and a category-linked material sample.
+- Revised reference-led hero: source drone footage, stationary lower-left copy and floating masthead. Removed the material card, heritage badge, ornamental frame and category panel. Quiet crossfade and pause/play controls; mobile uses a high-resolution poster without loading video.
 - Scroll-driven CSS 3D roof-tile assembly, made from the original product photograph. A keyboard/touch button assembles or separates the arrangement; it is explicitly labelled illustrative.
 - Reversible directional reveals, four-step staggered entrances and image masks. Content remains accessible with JavaScript disabled or reduced motion enabled.
 - Leaflet is split into a separate lazy-loaded module. All eight markers use coordinates from the eight original Google embeds. Markers, popups, branch details and network reset were tested with live street tiles.

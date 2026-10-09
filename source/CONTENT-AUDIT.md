@@ -26,3 +26,5 @@ All migrated product names, slugs, SKUs and specification attributes are traceab
 The two Church Project descriptions refer to housing. The Supermarket Project title and description disagree about location. These source inconsistencies are retained rather than resolved through invented details.
 
 Product application photography comes from the original catalogue, which may contain supporting imagery. Such imagery is not labelled as a specific completed Zimtile project. Dedicated project pages use their source project images.
+
+The revised hero film and poster are mechanical extracts of `https://www.zimtile.co.zw/wp-content/uploads/Zimtile-About.mp4`, referenced by the original About page. The source shows Zimtile-branded premises. A 14-second muted excerpt was compressed for desktop background playback; mobile/reduced-motion views use its still poster. No external architectural footage or generated scenes were introduced.

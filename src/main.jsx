@@ -7,3 +7,5 @@ const el = document.getElementById("root");
 if (el.children.length)
   hydrateRoot(el, <App initialPath={location.pathname} />);
 else createRoot(el).render(<App initialPath={location.pathname} />);
+
+import "./hero.css";
