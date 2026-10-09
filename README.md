@@ -43,4 +43,6 @@ Legacy basket, cart, checkout and wishlist routes lead to the quote workflow. Ex
 
 ## Design
 
-Brand red `#E50011`, warm off-white, charcoal and concrete neutrals. Manrope and DM Sans. Keyboard-operable material selectors, profile/colour studio, project expansion on scroll, directional reveal animations, scroll-aware navigation, responsive menu, catalogue filters and modal search/quick view. Reduced-motion support is built in.
+Brand red `#E50011`, warm off-white, charcoal and concrete neutrals. Manrope and DM Sans. The revised cinematic hero links a selected category to its actual material sample. A sticky, CSS 3D roof-tile assembly uses original product photography, with illustrative-arrangement labelling and a touch/keyboard toggle. Reversible fade-up/fade-down reveals, staggered entrances and image masks respond to scroll direction. Reduced-motion layouts retain visible content and a completed assembly.
+
+The branch finder now uses Leaflet with real OpenStreetMap street tiles and all eight source-provided map locations. Markers and branch lists stay in sync, with popups, zoom controls and a complete-network reset. `src/branch-locations.json` preserves the original Google embed URLs and their centre coordinates. Leaflet is loaded only as the map approaches the viewport; no user location is requested. `VITE_MAP_TILE_URL` can point to another compatible provider, but its attribution/licensing must be updated accordingly.

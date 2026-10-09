@@ -1,4 +1,4 @@
-# Zimtile verification — 9 October 2026
+# Zimtile local verification — 9 October 2026
 
 ## Confirmed
 
@@ -20,6 +20,14 @@
 
 This is a complete static company/catalogue frontend with enquiry handoffs. No CRM, automatic email delivery, inventory backend, CMS, payment or WooCommerce account migration is configured. Delivery of a real enquiry depends on the visitor sending it in WhatsApp/email.
 
-The source has inconsistent project titles/descriptions and some generic unavailable-image entries. These are preserved/identified, not replaced with invented data. The branch diagram is schematic; map directions are address searches.
+The source has inconsistent project titles/descriptions and some generic unavailable-image entries. These are preserved/identified, not replaced with invented data. The revised map uses source-provided Google embed coordinates for all eight branches, with actual OpenStreetMap street tiles and Google address-based directions.
 
-Public hosting, domain/DNS changes and Vercel redirect execution were not performed. The 56 legacy redirect rules are configured and must be verified on the selected production host. No public Core Web Vitals or field-performance claim is made. Legal pages retain source text and should be reviewed for the eventual hosting and enquiry architecture.
+This report covers local validation before release. Public deployment and redirect checks are verified separately in the release handoff. No domain/DNS changes are included. No public Core Web Vitals or field-performance claim is made. Legal pages retain source text and should be reviewed for the eventual hosting and enquiry architecture.
+
+## Creative and map revision
+
+- Cinematic image-led hero with pointer-responsive depth, architectural framing and a category-linked material sample.
+- Scroll-driven CSS 3D roof-tile assembly, made from the original product photograph. A keyboard/touch button assembles or separates the arrangement; it is explicitly labelled illustrative.
+- Reversible directional reveals, four-step staggered entrances and image masks. Content remains accessible with JavaScript disabled or reduced motion enabled.
+- Leaflet is split into a separate lazy-loaded module. All eight markers use coordinates from the eight original Google embeds. Markers, popups, branch details and network reset were tested with live street tiles.
+- All 149 revised routes checked again at 390px: no page overflow, broken non-map images or new-build React console errors. Additional breakpoint and public-alias checks are part of the release handoff.

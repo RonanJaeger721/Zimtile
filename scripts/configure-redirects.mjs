@@ -47,6 +47,7 @@ fs.writeFileSync(
   "vercel.json",
   JSON.stringify(
     {
+      framework: "vite",
       buildCommand: "npm run build",
       outputDirectory: "dist",
       cleanUrls: true,

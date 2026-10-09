@@ -19,7 +19,7 @@ Company source pages:
 - https://www.zimtile.co.zw/contact-zimtile/
 - https://www.zimtile.co.zw/branches-harare-bulawayo-gweru-mutare-masvingo-kwekwe-chinhoyi/
 
-Contacts and hours were transcribed directly. No branch coordinates were supplied; the branch network diagram is labelled schematic/not to scale and real directions use address searches in Google Maps.
+Contacts and hours were transcribed directly. The revised interactive map uses the eight Google Maps embed centre coordinates in the original branch page. The source embeds and coordinates are retained in `src/branch-locations.json`; no pin coordinates were guessed. These are the locations supplied by the source website, rather than an independent survey of each premises. Street tiles are provided by OpenStreetMap with visible attribution. Directions use the recorded branch addresses in Google Maps.
 
 All migrated product names, slugs, SKUs and specification attributes are traceable to the snapshots. The source's zero prices and stock indicators are deliberately not displayed as commercial promises. Category recommendations describe a starting point and ask the visitor to confirm application suitability with a branch.
 

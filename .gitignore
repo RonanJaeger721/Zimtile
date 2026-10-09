@@ -3,3 +3,6 @@ dist/
 build-server/
 .vercel/
 *.log
+
+.vercel
+.env*

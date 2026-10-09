@@ -1,0 +1,6 @@
+.env*
+source/
+build-server/
+QA.md
+node_modules/
+.git/

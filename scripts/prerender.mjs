@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { render, routePaths, metadata } from "../build-server/entry-server.js";
 import data from "../src/data.json" with { type: "json" };
+import branchLocations from "../src/branch-locations.json" with { type: "json" };
 import { branches, hours, tel } from "../src/branches.js";
 const template = fs.readFileSync("dist/index.html", "utf8"),
   base = "https://www.zimtile.co.zw";
@@ -70,6 +71,11 @@ for (const route of routePaths) {
           addressCountry: "ZW",
         },
         telephone: tel(b.phones[0]),
+        geo: {
+          "@type": "GeoCoordinates",
+          latitude: branchLocations.find((l) => l.name === b.name).lat,
+          longitude: branchLocations.find((l) => l.name === b.name).lng,
+        },
         openingHours: ["Mo-Fr 08:00-17:00", "Sa 08:00-13:00"],
       })),
     );

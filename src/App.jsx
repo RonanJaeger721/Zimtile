@@ -21,6 +21,9 @@ import {
   Mail,
 } from "lucide-react";
 import data from "./data.json";
+import BranchMap from "./BranchMap.jsx";
+import MaterialJourney from "./MaterialJourney.jsx";
+
 import { branches, hours, tel } from "./branches.js";
 const { products, categories, content, information } = data;
 const projects = content.filter((x) => x.type === "project"),
@@ -481,10 +484,33 @@ function Footer() {
   );
 }
 function Hero() {
+  const heroRef = useRef();
   const [selected, setSelected] = useState(1);
   let g = groups[selected];
+  const sample = products.find(
+    (p) => has(p, g.cat) && !p.images[0]?.includes("coming-soon"),
+  );
   return (
-    <section className="hero">
+    <section
+      ref={heroRef}
+      className="hero cinematic-hero"
+      onPointerMove={(e) => {
+        if (
+          e.pointerType !== "mouse" ||
+          window.matchMedia("(prefers-reduced-motion: reduce)").matches
+        )
+          return;
+        const r = heroRef.current.getBoundingClientRect();
+        heroRef.current.style.setProperty(
+          "--pointer-x",
+          (e.clientX - r.left) / r.width - 0.5,
+        );
+        heroRef.current.style.setProperty(
+          "--pointer-y",
+          (e.clientY - r.top) / r.height - 0.5,
+        );
+      }}
+    >
       <div className="hero-copy">
         <Eyebrow>Building Zimbabwe since 1957</Eyebrow>
         <h1>
@@ -525,6 +551,20 @@ function Hero() {
             />
           ))}
         </div>
+        <div className="hero-frame" aria-hidden="true">
+          <span />
+          <span />
+          <span />
+          <span />
+        </div>
+        <Link className="hero-material-sample" to={"/products/" + sample.slug}>
+          <span className="label">MATERIAL IN FOCUS / 0{selected + 1}</span>
+          <ProductImage p={sample} />
+          <div>
+            <span>{pretty(sample.name)}</span>
+            <ArrowUpRight size={18} />
+          </div>
+        </Link>
         <div className="hero-image-caption">
           <span>MATERIALS IN THE MAKING</span>
           <span>ZW / 1957</span>
@@ -933,57 +973,6 @@ function Heritage() {
     </section>
   );
 }
-function BranchMap({ selected = 0, onSelect }) {
-  return (
-    <div className="branch-map">
-      <svg viewBox="0 0 440 420" aria-hidden="true">
-        <defs>
-          <pattern
-            id="grid"
-            width="24"
-            height="24"
-            patternUnits="userSpaceOnUse"
-          >
-            <path
-              d="M 24 0 L 0 0 0 24"
-              fill="none"
-              stroke="#c8c8bf"
-              strokeWidth=".5"
-            />
-          </pattern>
-        </defs>
-        <rect width="440" height="420" fill="url(#grid)" />
-        <path
-          d="M70 110 128 75 177 92 226 58 308 81 372 113 366 167 398 228 358 303 287 346 258 382 160 357 125 300 58 234 38 167Z"
-          fill="#d8d8cf"
-          stroke="#aaa99f"
-        />
-        <path
-          d="M100 190 280 152 318 240 217 305 127 270Z"
-          fill="none"
-          stroke="#c1c0b7"
-          strokeDasharray="4 5"
-        />
-      </svg>
-      {branches.map((b, i) => (
-        <button
-          style={{ left: b.x + "%", top: b.y + "%" }}
-          className={selected === i ? "selected" : ""}
-          aria-label={"Select " + b.name}
-          onClick={() => onSelect(i)}
-          key={b.name}
-        >
-          <i />
-          {selected === i && <span>{b.name}</span>}
-        </button>
-      ))}
-      <span className="map-note">
-        ZIMBABWE / BRANCH NETWORK
-        <br /> Schematic locations · not to scale
-      </span>
-    </div>
-  );
-}
 function BranchDetails({ b }) {
   return (
     <div className="branch-details">
@@ -1112,10 +1101,12 @@ function CTA() {
   );
 }
 function Home() {
+  const { go } = useContext(Ctx);
   return (
     <>
       <Hero />
       <Proof />
+      <MaterialJourney navigate={go} />
       <Discovery />
       <Finder />
       <RoofStudio />
@@ -2621,18 +2612,44 @@ export default function App({ initialPath = "/" }) {
     let canonical = document.querySelector('link[rel="canonical"]');
     if (canonical) canonical.href = "https://www.zimtile.co.zw" + path;
     document.documentElement.classList.add("motion-ready");
-    let observer = new IntersectionObserver(
+    let direction = "down",
+      lastY = window.scrollY,
+      frame = 0;
+    const candidates = [
+      ...document.querySelectorAll(
+        ".section-head,.material-preview,.paving-photo,.heritage-title,.story-card,.product-card,.page-intro,.product-gallery,.product-information,.branch-panel,.quote-item,.enquiry-form,.values-list article,.about-story>div,.mission>div,.cta>div",
+      ),
+    ];
+    candidates.forEach((el, i) => {
+      el.classList.add("reveal");
+      el.dataset.reveal = i % 2 ? "up" : "down";
+      el.style.setProperty("--stagger", Math.min(i % 4, 3) * 65 + "ms");
+    });
+    const scroll = () => {
+      if (frame) return;
+      frame = requestAnimationFrame(() => {
+        const y = window.scrollY;
+        direction = y < lastY ? "up" : "down";
+        document.documentElement.dataset.scrollDirection = direction;
+        lastY = y;
+        frame = 0;
+      });
+    };
+    window.addEventListener("scroll", scroll, { passive: true });
+    const observer = new IntersectionObserver(
       (entries) =>
         entries.forEach((e) => {
-          if (e.isIntersecting) {
-            e.target.classList.add("visible");
-            observer.unobserve(e.target);
-          }
+          e.target.classList.toggle("visible", e.isIntersecting);
+          if (e.isIntersecting) e.target.dataset.entry = direction;
         }),
-      { threshold: 0.12 },
+      { threshold: 0.08, rootMargin: "0px 0px -3% 0px" },
     );
-    document.querySelectorAll(".reveal").forEach((x) => observer.observe(x));
-    return () => observer.disconnect();
+    candidates.forEach((el) => observer.observe(el));
+    return () => {
+      observer.disconnect();
+      window.removeEventListener("scroll", scroll);
+      cancelAnimationFrame(frame);
+    };
   }, [path]);
   return (
     <Ctx.Provider
